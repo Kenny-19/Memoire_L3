@@ -1,17 +1,43 @@
  \documentclass{report}
-
+\usepackage{graphicx}
  
 \begin{document}
 	\author{Tshibangu Ntumba Kenny}
-	 
+	
+	\begin{titlepage}
+		
+		\centering
+		
+		\textbf{\Large RÉPUBLIQUE DÉMOCRATIQUE DU CONGO
+			MINISTÈRE DE L’ENSEIGNEMENT SUPÉRIEUR ET UNIVERSITAIRE}
+		\vspace{1.5cm}
+		 
+		 \includegraphics[width=0.5\textwidth]{Logo.jpg}
+		 \vspace{3.5cm}
+		 
+		 
+		 \textbf{\Large "  MISE EN PLACE D'UN SYSTÈME DE SECURITE DANS UN SERVEUR WEB "}
+		 \vspace{2.5cm}
+		 
+		  \large Par :\textbf{Tshibangu Ntumba Kenny} 
+		  
+		  \paragraph{ } Travail de fin d’études présenté en vue de l’obtention
+		  du grade de licencié en Sciences Informatiques
+		\paragraph{ } \Large{ Option : Réseau et Infrastructure}
+		 \vfill
+		 {\LARGE Année Académique 2022-2023}
+	\end{titlepage}
+\begin{center}
+\tableofcontents 
+\pagebreak
+\end{center}
+	    
 	\begin{Huge}
  Introduction Générale 
 	\end{Huge}
-	 \begin{description}
-	 	\item[ ] Pour Rappel mon sujet c'est la :"Mise en Place d'un système de securite dans un Serveur WEB"
-	 \end{description}
+	 
  \section{ Quelques petites Définition}
- \subsection{ La Securite Informatique  }
+ \subsection{La Securite Informatique }
  
  \paragraph{ }  La sécurité informatique est l'ensemble des mesures techniques, organisationnelles et juridiques mises en place pour protéger les systèmes informatiques, les réseaux et les données contre les attaques, les pertes ou les altérations. Elle vise à garantir la confidentialité, l'intégrité et la disponibilité des informations stockées sur les systèmes informatiques, ainsi que la protection de la vie privée et des droits de propriété intellectuelle.
  
@@ -52,4 +78,47 @@
    Une Solution simple et pratique peut être proposée  \space;
    Pour rendre le serveur Plus sur et plus sécurisé
    \section{Solution technique} 
+   \paragraph{ }
+   La solution la plus proche et la moins vorace en ressource serait de mettre en place un système de securite qui respecte le nécessaire des normes de securites dans un serveur web actuel.
+   \section{Problématique }
+   \paragraph{ }
+   Sur un Serveur web il existe plusieurs sortes de vulnérabilités par lesquels on peut facilement y accéder Comme : 
+     \paragraph { $\bullet$L'injection SQL : }
+      en bref c'est une attaque qui consiste a insérer du code SQL malveillant  dans les entrées   d'un formulaires ...
+   
+   \paragraph{$\bullet$ Cross-Site Scripting(XSS) :} Comme son nom l'indique c'est une faille de securite qui permet un attaquant d'injecter du code malveillant dans une page web ou de faire une redirection vers un site frauduleux 
+   \paragraph{ }
+   Et j'en passe ;
+   \pagebreak
+   \paragraph{ }
+   Voici les  quelques questions que nous allons nous poser tout au long de ce travail :
+   \paragraph{ }
+   \textendash \space Quel est le descriptif d'un bon système de securite ?
+   \paragraph{ }
+   \textendash \space Quels sont les systèmes de securites  que nous allons utiliser ?
+   \paragraph{ }
+   \textendash \space Sur quel type de serveur web ce système sera efficace ?
+   \section{Méthodologie}
+   \paragraph{ }
+   Pour arriver a une solution plausible  nous allons utiliser une procédure  qui va nous permettre d'installer des machines virtuelles ; différentes machines virtuelles configurée de différentes façon  ;  et tester différentes approches de sécurisation de serveurs et même essayer de les combinées pour voir si le résultat est solide .
+  \section{ Techniques }
+  \paragraph{ }
+  Pour ce travail la technique appropriée sera :
+  \subsection{ La Recherche sur Internet :}
+  \paragraph{ }
+  Parcourir les différents  sites et forums qui proposent des travaux similaires aux miens , des vidéos et tutoriels pour les différentes configurations a faire  pour ce travail ...
+    \subsection{La Recherche Documentaire :}
+    \paragraph{ }
+    Utiliser les différents livres,revues ,archives ;
+    Qui , en les utilisant pourront m'aider a atteindre mon but , ma solution solide .
+  \subsection{ La Recherche Expérimentale :}
+  \paragraph{ }
+  Faire des petites expérimentation sur mes machines virtuelles configurées comme des serveurs web  
+  \section{Limitation}
+  Dans ce travail nous allons nous limiter a utiliser :
+  \paragraph{ } (En fonction de l’évolution de mon travail ce point va se remplir ).
+  \section{Objectif}
+  
+  \paragraph{ }L'objectif visé  dans ce travail est de pouvoir mettre en place un système de securite capable de remplir le travail nécessaire qui est actuellement demandé  sur les serveurs web ;
+  \paragraph{ } De configurer un serveur web assez performant pour remplir les prérequis    nécessaire qui sont demandés par la communauté  des développeurs   Web qui sont majoritairement amenés a utiliser les Serveurs Web Pour héberger leurs sites internet  .
 \end{document}
