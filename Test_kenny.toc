@@ -1,3 +1,4 @@
+\babel@toc {french}{}\relax 
 \contentsline {paragraph}{ }{1}{}%
 \contentsline {paragraph}{ }{1}{}%
 \contentsline {section}{\numberline {0.1} Quelques petites Définition}{3}{}%
@@ -25,7 +26,7 @@
 \contentsline {paragraph}{ }{5}{}%
 \contentsline {section}{\numberline {0.4}Problématique }{5}{}%
 \contentsline {paragraph}{ }{5}{}%
-\contentsline {paragraph}{ $\bullet $L'injection SQL : }{5}{}%
+\contentsline {paragraph}{$\bullet $L'injection SQL : }{5}{}%
 \contentsline {paragraph}{$\bullet $ Cross-Site Scripting(XSS) :}{5}{}%
 \contentsline {paragraph}{ }{5}{}%
 \contentsline {paragraph}{ }{6}{}%
@@ -47,3 +48,4 @@
 \contentsline {section}{\numberline {0.8}Objectif}{7}{}%
 \contentsline {paragraph}{ }{7}{}%
 \contentsline {paragraph}{ }{7}{}%
+\contentsline {section}{\numberline {0.9}Les Serveurs Web}{8}{}%
