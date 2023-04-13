@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.4.4)  13 APR 2023 12:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.4.4)  13 APR 2023 12:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -175,24 +175,36 @@ Overfull \hbox (7.24731pt too wide) in paragraph at lines 71--77
   [] \T1/cmr/m/n/10 La cy-ber-sé-cu-rité concerne la sé-cu-rité in-for-ma-tique et des ré-seaux des environne-
  []
 
-[4 <./image_sec.png>] [5] [6] [7] [8] [9]
+[4 <./image_sec.png>] [5]
+<salle-serveur.jpg, id=35, 401.5pt x 301.125pt>
+File: salle-serveur.jpg Graphic file (type jpg)
+<use salle-serveur.jpg>
+Package pdftex.def Info: salle-serveur.jpg  used on input line 105.
+(pdftex.def)             Requested size: 172.5pt x 129.37553pt.
+ [6 <./salle-serveur.jpg>]
+<Server_web.png, id=40, 455.45157pt x 154.32657pt>
+File: Server_web.png Graphic file (type png)
+<use Server_web.png>
+Package pdftex.def Info: Server_web.png  used on input line 112.
+(pdftex.def)             Requested size: 172.5pt x 58.4516pt.
+ [7 <./Server_web.png>] [8] [9] [10]
 Chapitre 1.
-[10
+[11
 
 ] (./Test_kenny.aux) ) 
 Here is how much of TeX's memory you used:
- 3903 strings out of 479954
- 65171 string characters out of 5886802
+ 3917 strings out of 479954
+ 65450 string characters out of 5886802
  374762 words of memory out of 5000000
- 22086 multiletter control sequences out of 15000+600000
+ 22098 multiletter control sequences out of 15000+600000
  477745 words of font info for 39 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,5n,67p,708b,426s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,5n,67p,716b,426s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/kenny/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2074.600pk> </home/kenny/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm2488.600pk> </home/kenny/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </home/kenny/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2488.600pk> </home/kenny/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/kenny/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600pk> </home/kenny/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> </home/kenny/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/kenny/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/kenny/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Test_kenny.pdf (11 pages, 269415 bytes).
+Output written on Test_kenny.pdf (12 pages, 337437 bytes).
 PDF statistics:
- 410 PDF objects out of 1000 (max. 8388607)
- 70 compressed objects within 1 object stream
+ 415 PDF objects out of 1000 (max. 8388607)
+ 72 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

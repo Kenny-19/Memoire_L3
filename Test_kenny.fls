@@ -266,6 +266,16 @@ INPUT ./image_sec.png
 INPUT image_sec.png
 INPUT ./image_sec.png
 INPUT ./image_sec.png
+INPUT ./salle-serveur.jpg
+INPUT ./salle-serveur.jpg
+INPUT salle-serveur.jpg
+INPUT ./salle-serveur.jpg
+INPUT ./salle-serveur.jpg
+INPUT ./Server_web.png
+INPUT ./Server_web.png
+INPUT Server_web.png
+INPUT ./Server_web.png
+INPUT ./Server_web.png
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm2074.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx2074.tfm
 INPUT Test_kenny.aux
