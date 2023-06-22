@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.5.9)  22 JUN 2023 13:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.5.9)  22 JUN 2023 13:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Introduction_Tshibangu_Ntumba.tex
-(./Introduction_Tshibangu_Ntumba.tex
+**main.tex
+(./main.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-07-15>
 (/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
@@ -87,24 +87,24 @@ File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count196
 \l__pdf_internal_box=\box51
 )
-(./Introduction_Tshibangu_Ntumba.aux (./chapitre_2Memoire.aux)
+(./main.aux (./Introduction_Tshibangu_Ntumba.aux) (./chapitre_2Memoire.aux)
 (./cybersecuritechapitre.aux) (./chapitreConfigurationISS.aux))
-\openout1 = `Introduction_Tshibangu_Ntumba.aux'.
+\openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -162,20 +162,24 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+\openout2 = `Introduction_Tshibangu_Ntumba.aux'.
+
+
+(./Introduction_Tshibangu_Ntumba.tex
 <Logo.jpg, id=1, 1927.2pt x 675.27281pt>
 File: Logo.jpg Graphic file (type jpg)
 <use Logo.jpg>
-Package pdftex.def Info: Logo.jpg  used on input line 17.
+Package pdftex.def Info: Logo.jpg  used on input line 13.
 (pdftex.def)             Requested size: 172.5pt x 60.4422pt.
+ [1
 
-[1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Logo.jpg>] [1]
-(./Introduction_Tshibangu_Ntumba.toc
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Logo.jpg>] [1] (./main.t
+oc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 6.
+(Font)              <7> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 6.
+(Font)              <5> on input line 5.
 
 Overfull \hbox (7.80273pt too wide) in paragraph at lines 88--88
  [][] []\T1/cmr/m/n/10 Quelques vulnérabilités Sur Les Serveurs de Base De Donn
@@ -191,104 +195,104 @@ Underfull \hbox (badness 10000) in paragraph at lines 88--88
 
 ])
 \tf@toc=\write3
-\openout3 = `Introduction_Tshibangu_Ntumba.toc'.
+\openout3 = `main.toc'.
 
  [3] [1]
 Chapter 1.
 
-Overfull \hbox (14.41223pt too wide) in paragraph at lines 47--49
+Overfull \hbox (14.41223pt too wide) in paragraph at lines 43--45
 \T1/cmr/m/n/10 contre tout accès, utilisation, divulgation, perturbation, modif
 ication ou destruction
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--49
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
 
  []
 
 
-Overfull \hbox (27.30164pt too wide) in paragraph at lines 50--51
+Overfull \hbox (27.30164pt too wide) in paragraph at lines 46--47
 []\T1/cmr/m/n/10 Les serveurs sont des composants essentiels de toute infrastru
 cture de cybersécurité. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--54
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--59
+Underfull \hbox (badness 10000) in paragraph at lines 51--55
 
  []
 
 
-Overfull \hbox (4.11176pt too wide) in paragraph at lines 60--61
+Overfull \hbox (4.11176pt too wide) in paragraph at lines 56--57
 []\T1/cmr/m/n/10 À la fin de ce travail, vous aurez une compréhension de base d
 e la cybersécurité
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
 
  []
 
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 64--66
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
 
  []
 
 
-Overfull \hbox (15.43976pt too wide) in paragraph at lines 70--71
+Overfull \hbox (15.43976pt too wide) in paragraph at lines 66--67
 \T1/cmr/m/n/10 Les serveurs peuvent être utilisés pour stocker des données, exé
 cuter des applications
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--91
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
 
  []
 
 
-Overfull \hbox (0.58351pt too wide) in paragraph at lines 91--92
+Overfull \hbox (0.58351pt too wide) in paragraph at lines 87--88
   [] $\OMS/cmsy/m/n/10 ^^O$\T1/cmr/m/n/10 Activer l'authentification à deux fac
 teurs : L'authentification à deux facteurs
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--92
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
 
  []
 
 
-Overfull \hbox (19.04999pt too wide) in paragraph at lines 101--104
+Overfull \hbox (19.04999pt too wide) in paragraph at lines 97--100
   [] \T1/cmr/m/n/10 Ce travail s'appuie sur les différents domaines de la Cyber
 sécurité qui actuellement
  []
 
-[3] [4] [5] [6]
+[3] [4] [5]) [6]
 \openout2 = `chapitre_2Memoire.aux'.
 
  (./chapitre_2Memoire.tex
@@ -305,6 +309,8 @@ ques qui fournissent
  []
 
 [7
+
+
 
 
  <./salle-serveur.jpg>]
@@ -642,29 +648,29 @@ Chapter 4.
 
 
 
-] (./Introduction_Tshibangu_Ntumba.aux (./chapitre_2Memoire.aux)
-(./cybersecuritechapitre.aux) (./chapitreConfigurationISS.aux)) ) 
+] (./main.aux (./Introduction_Tshibangu_Ntumba.aux)
+(./chapitre_2Memoire.aux) (./cybersecuritechapitre.aux)
+(./chapitreConfigurationISS.aux)) ) 
 Here is how much of TeX's memory you used:
- 3209 strings out of 479983
- 55820 string characters out of 5888071
- 365786 words of memory out of 5000000
- 21368 multiletter control sequences out of 15000+600000
+ 3237 strings out of 479983
+ 56766 string characters out of 5888071
+ 366010 words of memory out of 5000000
+ 21389 multiletter control sequences out of 15000+600000
  478658 words of font info for 42 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,6n,67p,848b,246s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/kenny_
-t/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2074.600pk> </home/ken
-ny_t/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </home/
-kenny_t/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2488.600pk> </ho
-me/kenny_t/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> <
-/home/kenny_t/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600pk
-> </home/kenny_t/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.60
-0pk> </home/kenny_t/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200
-.600pk> </home/kenny_t/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1
-200.600pk> </home/kenny_t/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/ec
-bx1440.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
-10.pfb>
-Output written on Introduction_Tshibangu_Ntumba.pdf (30 pages, 382115 bytes).
+ 60i,6n,67p,819b,246s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/kenny_t/.texlive2022/texmf-var/fonts
+/pk/ljfour/jknappen/ec/ecbx2074.600pk> </home/kenny_t/.texlive2022/texmf-var/fo
+nts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </home/kenny_t/.texlive2022/texmf-var
+/fonts/pk/ljfour/jknappen/ec/ecbx2488.600pk> </home/kenny_t/.texlive2022/texmf-
+var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/kenny_t/.texlive2022/tex
+mf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600pk> </home/kenny_t/.texlive2022/
+texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> </home/kenny_t/.texlive20
+22/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/kenny_t/.texliv
+e2022/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/kenny_t/.tex
+live2022/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on main.pdf (30 pages, 382123 bytes).
 PDF statistics:
  510 PDF objects out of 1000 (max. 8388607)
  107 compressed objects within 2 object streams
