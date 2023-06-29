@@ -47,98 +47,97 @@
 \contentsline {section}{\numberline {1.9}Objectif}{6}{}%
 \contentsline {paragraph}{ }{6}{}%
 \contentsline {paragraph}{ }{6}{}%
-\babel@toc {nil}{}\relax 
+\babel@toc {french}{}\relax 
 \contentsline {chapter}{\numberline {2} Les Serveurs}{7}{}%
 \contentsline {section}{\numberline {2.1}Définitions}{7}{}%
-\contentsline {paragraph}{ \includegraphics [width=0.5\textwidth ]{salle-serveur.jpg}}{7}{}%
+\contentsline {paragraph}{ \includegraphics [width=0.5\textwidth ]{PhotoMemoire/salle-serveur.jpg}}{7}{}%
 \contentsline {paragraph}{ }{7}{}%
-\contentsline {section}{\numberline {2.2}Les Serveurs Web}{8}{}%
-\contentsline {paragraph}{ \includegraphics [width=0.5\textwidth ]{Server_web.png}}{8}{}%
+\contentsline {paragraph}{ }{7}{}%
 \contentsline {paragraph}{ }{8}{}%
-\contentsline {subsection}{\numberline {2.2.1}Quelques vulnérabilités Sur Les Serveurs Web }{8}{}%
-\contentsline {paragraph}{ }{8}{}%
-\contentsline {paragraph}{ }{8}{}%
-\contentsline {paragraph}{ }{8}{}%
+\contentsline {section}{\numberline {2.2}Les Serveurs Web}{9}{}%
+\contentsline {paragraph}{ \includegraphics [width=0.5\textwidth ]{PhotoMemoire/Server_web.png}}{9}{}%
+\contentsline {paragraph}{ }{9}{}%
+\contentsline {subsection}{\numberline {2.2.1}Quelques vulnérabilités Sur Les Serveurs Web }{9}{}%
 \contentsline {paragraph}{ }{9}{}%
 \contentsline {paragraph}{ }{9}{}%
 \contentsline {paragraph}{ }{9}{}%
 \contentsline {paragraph}{ }{9}{}%
-\contentsline {section}{\numberline {2.3}Serveurs de Messageries}{9}{}%
-\contentsline {paragraph}{ \includegraphics [width=0.5\textwidth ]{Server_web.png}}{9}{}%
 \contentsline {paragraph}{ }{9}{}%
-\contentsline {paragraph}{ }{9}{}%
-\contentsline {paragraph}{ }{9}{}%
-\contentsline {subsection}{\numberline {2.3.1}Quelques vulnérabilités Sur Les Serveurs de Messageries }{10}{}%
 \contentsline {paragraph}{ }{10}{}%
 \contentsline {paragraph}{ }{10}{}%
-\contentsline {paragraph}{ }{10}{}%
+\contentsline {section}{\numberline {2.3}Serveurs de Messageries}{10}{}%
+\contentsline {paragraph}{ \includegraphics [width=0.8\textwidth ]{PhotoMemoire/Serveur_Messagerie.png}}{10}{}%
 \contentsline {paragraph}{ }{10}{}%
 \contentsline {paragraph}{ }{10}{}%
 \contentsline {paragraph}{ }{11}{}%
-\contentsline {section}{\numberline {2.4}Serveur de fichiers}{11}{}%
-\contentsline {paragraph}{ \includegraphics [width=0.5\textwidth ]{Server_web.png}}{11}{}%
+\contentsline {subsection}{\numberline {2.3.1}Quelques vulnérabilités Sur Les Serveurs de Messageries }{11}{}%
 \contentsline {paragraph}{ }{11}{}%
-\contentsline {subsection}{\numberline {2.4.1}Quelques vulnérabilités Sur Les Serveurs de Fichier}{12}{}%
+\contentsline {paragraph}{ }{11}{}%
+\contentsline {paragraph}{ }{11}{}%
+\contentsline {paragraph}{ }{11}{}%
 \contentsline {paragraph}{ }{12}{}%
-\contentsline {section}{\numberline {2.5}Serveur de Base de Données }{13}{}%
-\contentsline {paragraph}{ \includegraphics [width=0.5\textwidth ]{Server_web.png}}{13}{}%
-\contentsline {paragraph}{ }{13}{}%
-\contentsline {paragraph}{ }{13}{}%
+\contentsline {paragraph}{ }{12}{}%
+\contentsline {section}{\numberline {2.4}Serveur de fichiers}{12}{}%
+\contentsline {paragraph}{ \includegraphics [width=0.8\textwidth ]{PhotoMemoire/serveur_fichier.png}}{12}{}%
+\contentsline {paragraph}{ }{12}{}%
+\contentsline {subsection}{\numberline {2.4.1}Quelques vulnérabilités Sur Les Serveurs de Fichier}{13}{}%
 \contentsline {paragraph}{ }{14}{}%
-\contentsline {subsection}{\numberline {2.5.1}Quelques vulnérabilités Sur Les Serveurs de Base De Donnes }{14}{}%
+\contentsline {section}{\numberline {2.5}Serveur de Base de Données }{14}{}%
+\contentsline {paragraph}{ \includegraphics [width=0.8\textwidth ]{PhotoMemoire/serveur_bdd.png}}{14}{}%
 \contentsline {paragraph}{ }{14}{}%
-\contentsline {section}{\numberline {2.6}Serveur d'Application}{15}{}%
-\contentsline {paragraph}{ \includegraphics [width=0.5\textwidth ]{Server_web.png}}{15}{}%
+\contentsline {paragraph}{ }{14}{}%
 \contentsline {paragraph}{ }{15}{}%
-\contentsline {paragraph}{ }{15}{}%
-\contentsline {paragraph}{ }{15}{}%
-\contentsline {subsection}{\numberline {2.6.1}Quelques vulnérabilités Sur Les Serveurs d'Application }{16}{}%
+\contentsline {subsection}{\numberline {2.5.1}Quelques vulnérabilités Sur Les Serveurs de Base De Donnes }{15}{}%
 \contentsline {paragraph}{ }{16}{}%
-\contentsline {section}{\numberline {2.7}Serveur DNS}{17}{}%
-\contentsline {paragraph}{ \includegraphics [width=0.5\textwidth ]{Server_web.png}}{17}{}%
+\contentsline {section}{\numberline {2.6}Serveur d'Application}{16}{}%
+\contentsline {paragraph}{ \includegraphics [width=0.8\textwidth ]{PhotoMemoire/serveur_application.png}}{16}{}%
+\contentsline {paragraph}{ }{16}{}%
+\contentsline {paragraph}{ }{16}{}%
 \contentsline {paragraph}{ }{17}{}%
-\contentsline {paragraph}{ }{17}{}%
-\contentsline {paragraph}{ }{17}{}%
+\contentsline {subsection}{\numberline {2.6.1}Quelques vulnérabilités Sur Les Serveurs d'Application }{17}{}%
 \contentsline {paragraph}{ }{18}{}%
-\contentsline {subsection}{\numberline {2.7.1}Quelques vulnérabilités Sur Les Serveurs DNS }{18}{}%
+\contentsline {section}{\numberline {2.7}Serveur DNS}{18}{}%
+\contentsline {paragraph}{ \includegraphics [width=0.8\textwidth ]{PhotoMemoire/serveur_dns.jpeg}}{18}{}%
 \contentsline {paragraph}{ }{18}{}%
-\contentsline {section}{\numberline {2.8}Serveur de Jeu}{19}{}%
-\contentsline {paragraph}{ \includegraphics [width=0.5\textwidth ]{Server_web.png}}{19}{}%
+\contentsline {paragraph}{ }{18}{}%
+\contentsline {paragraph}{ }{18}{}%
 \contentsline {paragraph}{ }{19}{}%
-\contentsline {paragraph}{}{20}{}%
+\contentsline {subsection}{\numberline {2.7.1}Quelques vulnérabilités Sur Les Serveurs DNS }{19}{}%
 \contentsline {paragraph}{ }{20}{}%
-\contentsline {chapter}{\numberline {3}La CyberSécurité et La Sécurité Informatique}{21}{}%
-\contentsline {section}{\numberline {3.1}La CyberSécurité}{21}{}%
-\contentsline {subsection}{\numberline {3.1.1}Définition}{21}{}%
-\contentsline {paragraph}{ }{21}{}%
-\contentsline {paragraph}{ }{21}{}%
-\contentsline {paragraph}{ }{21}{}%
+\contentsline {section}{\numberline {2.8}Serveur de Jeu}{20}{}%
+\contentsline {paragraph}{ \includegraphics [width=0.8\textwidth ]{PhotoMemoire/serveur_jeux.png}}{20}{}%
+\contentsline {paragraph}{ }{20}{}%
+\contentsline {paragraph}{}{21}{}%
 \contentsline {paragraph}{ }{22}{}%
-\contentsline {paragraph}{ }{22}{}%
-\contentsline {paragraph}{1. La confidentialité :}{22}{}%
-\contentsline {paragraph}{}{22}{}%
-\contentsline {paragraph}{2. L'intégrité :}{22}{}%
-\contentsline {paragraph}{}{22}{}%
-\contentsline {paragraph}{3. La disponibilité :}{22}{}%
-\contentsline {paragraph}{}{22}{}%
-\contentsline {paragraph}{4. L'authenticité:}{22}{}%
-\contentsline {paragraph}{}{22}{}%
-\contentsline {paragraph}{5. La non-répudiation: }{22}{}%
-\contentsline {paragraph}{}{22}{}%
-\contentsline {paragraph}{6. La résilience :}{22}{}%
-\contentsline {paragraph}{}{22}{}%
-\contentsline {paragraph}{7. La conformité :}{23}{}%
-\contentsline {paragraph}{}{23}{}%
-\contentsline {paragraph}{8. La sensibilisation :}{23}{}%
-\contentsline {paragraph}{}{23}{}%
-\contentsline {section}{\numberline {3.2}La Sécurité Informatique }{23}{}%
-\contentsline {subsection}{\numberline {3.2.1}Définition}{23}{}%
-\contentsline {section}{\numberline {3.3}La Securite Informatique }{23}{}%
+\contentsline {chapter}{\numberline {3}La CyberSécurité et La Sécurité Informatique}{23}{}%
+\contentsline {section}{\numberline {3.1}La CyberSécurité}{23}{}%
+\contentsline {subsection}{\numberline {3.1.1}Définition}{23}{}%
 \contentsline {paragraph}{ }{23}{}%
 \contentsline {paragraph}{ }{23}{}%
 \contentsline {paragraph}{ }{23}{}%
 \contentsline {paragraph}{ }{24}{}%
 \contentsline {paragraph}{ }{24}{}%
-\contentsline {paragraph}{ }{24}{}%
-\contentsline {paragraph}{ }{24}{}%
-\contentsline {chapter}{\numberline {4}La Configuration Du Serveur Web (ISS) Et La Sécurisation de ce dernier }{25}{}%
+\contentsline {paragraph}{1. La confidentialité :}{24}{}%
+\contentsline {paragraph}{}{24}{}%
+\contentsline {paragraph}{2. L'intégrité :}{24}{}%
+\contentsline {paragraph}{}{24}{}%
+\contentsline {paragraph}{3. La disponibilité :}{24}{}%
+\contentsline {paragraph}{}{24}{}%
+\contentsline {paragraph}{4. L'authenticité:}{24}{}%
+\contentsline {paragraph}{}{24}{}%
+\contentsline {paragraph}{5. La non-répudiation: }{24}{}%
+\contentsline {paragraph}{}{24}{}%
+\contentsline {paragraph}{6. La résilience :}{24}{}%
+\contentsline {paragraph}{}{24}{}%
+\contentsline {paragraph}{7. La conformité :}{25}{}%
+\contentsline {paragraph}{}{25}{}%
+\contentsline {paragraph}{8. La sensibilisation :}{25}{}%
+\contentsline {paragraph}{}{25}{}%
+\contentsline {section}{\numberline {3.2}La Sécurité Informatique }{25}{}%
+\contentsline {subsection}{\numberline {3.2.1}Définition}{25}{}%
+\contentsline {section}{\numberline {3.3}La Securite Informatique }{25}{}%
+\contentsline {paragraph}{ }{25}{}%
+\contentsline {paragraph}{ }{25}{}%
+\contentsline {paragraph}{ }{25}{}%
+\contentsline {paragraph}{ }{26}{}%
+\contentsline {chapter}{\numberline {4}La Configuration Du Serveur Web (ISS) Et La Sécurisation de ce dernier }{27}{}%

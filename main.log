@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.5.9)  22 JUN 2023 13:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.6.29)  29 JUN 2023 16:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -52,39 +52,50 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 Package: babel 2022/07/20 3.78 The Babel package
 \babel@savecnt=\count194
 \U@D=\dimen141
-\l@unhyphenated=\language3
+\l@unhyphenated=\language5
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count195
 
-
-! Package babel Error: Unknown option 'french'. Either you misspelled it
-(babel)                or the language definition file french.ldf was not found
-.
-
-See the babel package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4365 \ProcessOptions*
-                       
-Valid options are, among others: shorthands=, KeepShorthandsActive,
-activeacute, activegrave, noconfigs, safe=, main=, math=
-headfoot=, strings=, config=, hyphenmap=, or a language name.
-
-Package babel Info: You haven't specified a language. I'll use 'nil'
-(babel)             as the main language. Reported on input line 4410.
-(/usr/share/texlive/texmf-dist/tex/generic/babel/nil.ldf
-Language: nil 2022/07/20 3.78 Nil language
-\l@nil=\language4
+(/usr/share/texlive/texmf-dist/tex/generic/babel-french/french.ldf
+Language: french 2022/04/18 v3.5n French support from the babel system
+Package babel Info: Hyphen rules for 'acadian' set to \l@french
+(babel)             (\language4). Reported on input line 91.
+Package babel Info: Hyphen rules for 'canadien' set to \l@french
+(babel)             (\language4). Reported on input line 92.
+\FB@nonchar=\count196
+Package babel Info: Making : an active character on input line 430.
+Package babel Info: Making ; an active character on input line 431.
+Package babel Info: Making ! an active character on input line 432.
+Package babel Info: Making ? an active character on input line 433.
+\FBguill@level=\count197
+\FBold@everypar=\toks17
+\FB@Mht=\dimen142
+\mc@charclass=\count198
+\mc@charfam=\count199
+\mc@charslot=\count266
+\std@mcc=\count267
+\dec@mcc=\count268
+\listindentFB=\dimen143
+\descindentFB=\dimen144
+\labelindentFB=\dimen145
+\labelwidthFB=\dimen146
+\leftmarginFB=\dimen147
+\parindentFFN=\dimen148
+\FBfnindent=\dimen149
 ))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/fr/babel-french.tex
+Package babel Info: Importing font and identification data for french
+(babel)             from babel-fr.ini. Reported on input line 11.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/carlisle/scalefnt.sty)
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count196
+\l__color_backend_stack_int=\count269
 \l__pdf_internal_box=\box51
 )
 (./main.aux (./Introduction_Tshibangu_Ntumba.aux) (./chapitre_2Memoire.aux)
@@ -108,17 +119,17 @@ LaTeX Font Info:    ... okay on input line 5.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count197
-\scratchdimen=\dimen142
+\scratchcounter=\count270
+\scratchdimen=\dimen150
 \scratchbox=\box52
-\nofMPsegments=\count198
-\nofMParguments=\count199
-\everyMPshowfont=\toks17
-\MPscratchCnt=\count266
-\MPscratchDim=\dimen143
-\MPnumerator=\count267
-\makeMPintoPDFobject=\count268
-\everyMPtoPDFconversion=\toks18
+\nofMPsegments=\count271
+\nofMParguments=\count272
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count273
+\MPscratchDim=\dimen151
+\MPnumerator=\count274
+\makeMPintoPDFobject=\count275
+\everyMPtoPDFconversion=\toks19
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 
@@ -162,32 +173,34 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+LaTeX Info: Redefining \degres on input line 5.
+LaTeX Info: Redefining \up on input line 5.
 \openout2 = `Introduction_Tshibangu_Ntumba.aux'.
 
 
 (./Introduction_Tshibangu_Ntumba.tex
-<Logo.jpg, id=1, 1927.2pt x 675.27281pt>
-File: Logo.jpg Graphic file (type jpg)
-<use Logo.jpg>
-Package pdftex.def Info: Logo.jpg  used on input line 13.
+<PhotoMemoire/Logo.jpg, id=1, 1927.2pt x 675.27281pt>
+File: PhotoMemoire/Logo.jpg Graphic file (type jpg)
+<use PhotoMemoire/Logo.jpg>
+Package pdftex.def Info: PhotoMemoire/Logo.jpg  used on input line 13.
 (pdftex.def)             Requested size: 172.5pt x 60.4422pt.
  [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Logo.jpg>] [1] (./main.t
-oc
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./PhotoMemoire/Logo.jpg>] 
+[1] (./main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 5.
 
-Overfull \hbox (7.80273pt too wide) in paragraph at lines 88--88
- [][] []\T1/cmr/m/n/10 Quelques vulnérabilités Sur Les Serveurs de Base De Donn
-es 
+Overfull \hbox (7.80273pt too wide) in paragraph at lines 90--90
+ [][] []\T1/cmr/m/n/10 Quelques vul-né-ra-bi-li-tés Sur Les Ser-veurs de Base D
+e Donnes 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--88
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
  []  
  []
 
@@ -197,453 +210,235 @@ Underfull \hbox (badness 10000) in paragraph at lines 88--88
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
- [3] [1]
-Chapter 1.
+ [3] [4] (./main.lof)
+\tf@lof=\write4
+\openout4 = `main.lof'.
 
-Overfull \hbox (14.41223pt too wide) in paragraph at lines 43--45
-\T1/cmr/m/n/10 contre tout accès, utilisation, divulgation, perturbation, modif
-ication ou destruction
- []
+ [5
 
+] [1]
+Chapitre 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--45
-
- []
-
-
-Overfull \hbox (27.30164pt too wide) in paragraph at lines 46--47
-[]\T1/cmr/m/n/10 Les serveurs sont des composants essentiels de toute infrastru
-cture de cybersécurité. 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--50
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--55
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
 
  []
 
 
-Overfull \hbox (4.11176pt too wide) in paragraph at lines 56--57
-[]\T1/cmr/m/n/10 À la fin de ce travail, vous aurez une compréhension de base d
-e la cybersécurité
+Underfull \hbox (badness 10000) in paragraph at lines 59--63
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
 
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 60--62
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
 
  []
 
 
-Overfull \hbox (15.43976pt too wide) in paragraph at lines 66--67
-\T1/cmr/m/n/10 Les serveurs peuvent être utilisés pour stocker des données, exé
-cuter des applications
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
+Overfull \hbox (1.16913pt too wide) in paragraph at lines 78--79
+[]\T1/cmr/m/n/10 Les ser-veurs sont une cible cou-rante pour les cy-be-rat-taqu
+es car ils contiennent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 85--86
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--87
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
 
  []
 
 
-Overfull \hbox (0.58351pt too wide) in paragraph at lines 87--88
-  [] $\OMS/cmsy/m/n/10 ^^O$\T1/cmr/m/n/10 Activer l'authentification à deux fac
-teurs : L'authentification à deux facteurs
- []
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--88
-
- []
-
-
-Overfull \hbox (19.04999pt too wide) in paragraph at lines 97--100
-  [] \T1/cmr/m/n/10 Ce travail s'appuie sur les différents domaines de la Cyber
-sécurité qui actuellement
  []
 
 [3] [4] [5]) [6]
 \openout2 = `chapitre_2Memoire.aux'.
 
  (./chapitre_2Memoire.tex
-Chapter 2.
-<salle-serveur.jpg, id=48, 401.5pt x 301.125pt>
-File: salle-serveur.jpg Graphic file (type jpg)
-<use salle-serveur.jpg>
-Package pdftex.def Info: salle-serveur.jpg  used on input line 6.
+Chapitre 2.
+<PhotoMemoire/salle-serveur.jpg, id=55, 401.5pt x 301.125pt>
+File: PhotoMemoire/salle-serveur.jpg Graphic file (type jpg)
+<use PhotoMemoire/salle-serveur.jpg>
+Package pdftex.def Info: PhotoMemoire/salle-serveur.jpg  used on input line 6.
 (pdftex.def)             Requested size: 172.5pt x 129.37553pt.
-
-Overfull \hbox (4.33136pt too wide) in paragraph at lines 7--9
-  [] \T1/cmr/m/n/10 Les serveurs sont des ordinateurs ou des systèmes informati
-ques qui fournissent
- []
-
 [7
 
 
 
 
- <./salle-serveur.jpg>]
-<Server_web.png, id=52, 455.45157pt x 154.32657pt>
-File: Server_web.png Graphic file (type png)
-<use Server_web.png>
-Package pdftex.def Info: Server_web.png  used on input line 29.
-(pdftex.def)             Requested size: 172.5pt x 58.4516pt.
- [8 <./Server_web.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
+ <./PhotoMemoire/salle-serveur.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
  []
 
 
-Overfull \hbox (1.19324pt too wide) in paragraph at lines 46--47
-\T1/cmr/m/n/10 pratiques de sécurité, telles que la validation des entrées util
-isateur et l'utilisation
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
  []
 
-File: Server_web.png Graphic file (type png)
-<use Server_web.png>
-Package pdftex.def Info: Server_web.png  used on input line 53.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+[8]
+<PhotoMemoire/Server_web.png, id=62, 455.45157pt x 154.32657pt>
+File: PhotoMemoire/Server_web.png Graphic file (type png)
+<use PhotoMemoire/Server_web.png>
+Package pdftex.def Info: PhotoMemoire/Server_web.png  used on input line 48.
 (pdftex.def)             Requested size: 172.5pt x 58.4516pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--56
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+[9 <./PhotoMemoire/Server_web.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+ []
+
+<PhotoMemoire/Serveur_Messagerie.png, id=68, 708.52942pt x 471.88058pt>
+File: PhotoMemoire/Serveur_Messagerie.png Graphic file (type png)
+<use PhotoMemoire/Serveur_Messagerie.png>
+Package pdftex.def Info: PhotoMemoire/Serveur_Messagerie.png  used on input lin
+e 72.
+(pdftex.def)             Requested size: 276.00105pt x 183.82387pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--58
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
  []
 
 
-Overfull \hbox (8.70883pt too wide) in paragraph at lines 59--60
-  [] \T1/cmr/m/n/10 Le serveur SMTP est utilisé pour envoyer des courriers élec
-troniques. Lorsqu'un
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
 
  []
 
-[9]
-Overfull \hbox (20.4422pt too wide) in paragraph at lines 65--66
-[]\T1/cmr/m/n/10 Les serveurs de messagerie peuvent être configurés pour fourni
-r des fonctionnalités
- []
-
-
-Overfull \hbox (21.44218pt too wide) in paragraph at lines 66--66
-[]\T1/cmr/bx/n/12 Quelques vulnérabilités Sur Les Serveurs de Messageries 
- []
-
-
-Overfull \hbox (5.85876pt too wide) in paragraph at lines 81--82
-\T1/cmr/m/n/10 pour accéder à des données sensibles, tels que des listes de con
-tacts, des calendriers
- []
-
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 83--85
+[10 <./PhotoMemoire/Serveur_Messagerie.png (PNG copy)>] [11]
+Underfull \hbox (badness 10000) in paragraph at lines 102--104
 
  []
 
-File: Server_web.png Graphic file (type png)
-<use Server_web.png>
-Package pdftex.def Info: Server_web.png  used on input line 89.
-(pdftex.def)             Requested size: 172.5pt x 58.4516pt.
+<PhotoMemoire/serveur_fichier.png, id=75, 299.1175pt x 169.63374pt>
+File: PhotoMemoire/serveur_fichier.png Graphic file (type png)
+<use PhotoMemoire/serveur_fichier.png>
+Package pdftex.def Info: PhotoMemoire/serveur_fichier.png  used on input line 1
+08.
+(pdftex.def)             Requested size: 276.00105pt x 156.53601pt.
+[12 <./PhotoMemoire/serveur_fichier.png>] [13]
+<PhotoMemoire/serveur_bdd.png, id=84, 301.125pt x 168.63pt>
+File: PhotoMemoire/serveur_bdd.png Graphic file (type png)
+<use PhotoMemoire/serveur_bdd.png>
+Package pdftex.def Info: PhotoMemoire/serveur_bdd.png  used on input line 151.
+(pdftex.def)             Requested size: 276.00105pt x 154.5754pt.
 
-Overfull \hbox (25.26294pt too wide) in paragraph at lines 94--95
-[]\T1/cmr/m/n/10 Gestion des droits d'accès : Les administrateurs peuvent défin
-ir des autorisations
+Overfull \hbox (1.35086pt too wide) in paragraph at lines 164--165
+[]\T1/cmr/m/n/10 Gestion des uti-li-sa-teurs et des droits d'ac-cès : Les ad-mi
+-nis-tra-teurs peuvent
  []
 
+[14 <./PhotoMemoire/serveur_bdd.png>] [15]
+<PhotoMemoire/serveur_application.png, id=92, 281.05pt x 180.675pt>
+File: PhotoMemoire/serveur_application.png Graphic file (type png)
+<use PhotoMemoire/serveur_application.png>
+Package pdftex.def Info: PhotoMemoire/serveur_application.png  used on input li
+ne 200.
+(pdftex.def)             Requested size: 276.00105pt x 177.43797pt.
+ [16 <./PhotoMemoire/serveur_application.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
 
-Overfull \hbox (6.64249pt too wide) in paragraph at lines 96--97
-\T1/cmr/m/n/10 pour effectuer des sauvegardes régulières des fichiers stockés, 
-afin de protéger
- []
-
-
-Overfull \hbox (13.8074pt too wide) in paragraph at lines 104--105
-\T1/cmr/m/n/10 utilisateurs d'accéder aux fichiers à partir de différents systè
-mes d'exploitation
- []
-
-[11]
-Overfull \hbox (0.66559pt too wide) in paragraph at lines 107--108
-\T1/cmr/m/n/10 Les serveurs de fichiers sont couramment utilisés dans les entre
-prises pour stocker
- []
-
-
-Overfull \hbox (2.8595pt too wide) in paragraph at lines 107--108
-\T1/cmr/m/n/10 utilisés dans des environnements domestiques pour stocker et par
-tager des fichiers
- []
-
-
-Overfull \hbox (18.13968pt too wide) in paragraph at lines 112--113
-\T1/cmr/m/n/10 vulnérabilités de sécurité connues qui peuvent être exploitées p
-ar les attaquants
- []
-
-File: Server_web.png Graphic file (type png)
-<use Server_web.png>
-Package pdftex.def Info: Server_web.png  used on input line 131.
-(pdftex.def)             Requested size: 172.5pt x 58.4516pt.
-[12]
-Overfull \hbox (10.72235pt too wide) in paragraph at lines 136--137
-[]\T1/cmr/m/n/10 Les serveurs de bases de données peuvent être configurés pour 
-fournir différentes
- []
-
-
-Overfull \hbox (23.24954pt too wide) in paragraph at lines 144--145
-\T1/cmr/m/n/10 définir des autorisations d'accès pour chaque utilisateur ou gro
-upe d'utilisateurs,
- []
-
-[13]
-Overfull \hbox (1.5604pt too wide) in paragraph at lines 169--170
-\T1/cmr/m/n/10 attaquants pour accéder à des données sensibles, telles que des 
-informations
- []
-
-
-Overfull \hbox (9.41959pt too wide) in paragraph at lines 171--172
-[]\T1/cmr/m/n/10 Fuites de données : Les serveurs de bases de données peuvent ê
-tre vulnérables
- []
-
-
-Overfull \hbox (1.5604pt too wide) in paragraph at lines 171--172
-\T1/cmr/m/n/10 aux fuites de données, qui peuvent se produire lorsque des donné
-es sensibles
- []
-
-
-Overfull \hbox (4.33136pt too wide) in paragraph at lines 175--176
-\T1/cmr/m/n/10 développeurs de bases de données doivent également être conscien
-ts des meilleures
- []
-
-
-Overfull \hbox (1.19324pt too wide) in paragraph at lines 175--176
-\T1/cmr/m/n/10 pratiques de sécurité, telles que la validation des entrées util
-isateur et l'utilisation
- []
-
-File: Server_web.png Graphic file (type png)
-<use Server_web.png>
-Package pdftex.def Info: Server_web.png  used on input line 180.
-(pdftex.def)             Requested size: 172.5pt x 58.4516pt.
-[14]
-Underfull \hbox (badness 10000) in paragraph at lines 201--202
-
- []
-
-
-Overfull \hbox (14.70503pt too wide) in paragraph at lines 202--202
-[]\T1/cmr/bx/n/12 Quelques vulnérabilités Sur Les Serveurs d'Application 
- []
-
-[15]
-Overfull \hbox (15.61252pt too wide) in paragraph at lines 209--210
-\T1/cmr/m/n/10 de phishing, des attaques de logiciels malveillants ou d'autres 
-types d'attaques. 
- []
-
-
-Overfull \hbox (1.5604pt too wide) in paragraph at lines 211--212
-\T1/cmr/m/n/10 attaquants pour accéder à des données sensibles, telles que des 
-informations
- []
-
-
-Overfull \hbox (1.5604pt too wide) in paragraph at lines 213--214
-\T1/cmr/m/n/10 aux fuites de données, qui peuvent se produire lorsque des donné
-es sensibles
- []
-
-
-Overfull \hbox (1.19324pt too wide) in paragraph at lines 218--220
-\T1/cmr/m/n/10 pratiques de sécurité, telles que la validation des entrées util
-isateur et l'utilisation
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 218--220
-
- []
-
-File: Server_web.png Graphic file (type png)
-<use Server_web.png>
-Package pdftex.def Info: Server_web.png  used on input line 225.
-(pdftex.def)             Requested size: 172.5pt x 58.4516pt.
-[16]
-Overfull \hbox (16.02551pt too wide) in paragraph at lines 232--233
-[]\T1/cmr/m/n/10 Les serveurs DNS peuvent être configurés pour fournir différen
-tes fonctionnalités,
- []
-
-
-Overfull \hbox (0.64285pt too wide) in paragraph at lines 236--237
-\T1/cmr/m/n/10 réponses aux requêtes DNS précédentes pour accélérer les temps d
-e réponse
- []
-
-
-Overfull \hbox (4.08032pt too wide) in paragraph at lines 248--249
-\T1/cmr/m/n/10 peuvent également configurer leur propre serveur DNS pour fourni
-r une résolution
- []
-
-
-Overfull \hbox (1.44318pt too wide) in paragraph at lines 248--249
-\T1/cmr/m/n/10 de noms de domaine personnalisée ou pour améliorer la sécurité e
-t la performance
  []
 
 [17]
-Underfull \hbox (badness 10000) in paragraph at lines 251--252
+Underfull \hbox (badness 10000) in paragraph at lines 238--240
 
  []
 
+<PhotoMemoire/serveur_dns.jpeg, id=100, 305.14pt x 166.6225pt>
+File: PhotoMemoire/serveur_dns.jpeg Graphic file (type jpg)
+<use PhotoMemoire/serveur_dns.jpeg>
+Package pdftex.def Info: PhotoMemoire/serveur_dns.jpeg  used on input line 245.
 
-Overfull \hbox (21.30447pt too wide) in paragraph at lines 256--257
-[]\T1/cmr/m/n/10 Vulnérabilités de sécurité : Les serveurs de DNS peuvent avoir
- des vulnérabilités
- []
+(pdftex.def)             Requested size: 276.00105pt x 150.7165pt.
+[18 <./PhotoMemoire/serveur_dns.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
 
-
-Overfull \hbox (27.38742pt too wide) in paragraph at lines 258--259
-[]\T1/cmr/m/n/10 Attaques de cache poisoning : Les attaquants peuvent exploiter
- des vulnérabilités
- []
-
-
-Overfull \hbox (5.53165pt too wide) in paragraph at lines 260--261
-\T1/cmr/m/n/10 vulnérabilités de configuration qui peuvent être exploitées par 
-les attaquants
- []
-
-
-Overfull \hbox (10.66928pt too wide) in paragraph at lines 260--261
-\T1/cmr/m/n/10 pour accéder à des données sensibles, telles que des information
-s de connexion
- []
-
-File: Server_web.png Graphic file (type png)
-<use Server_web.png>
-Package pdftex.def Info: Server_web.png  used on input line 273.
-(pdftex.def)             Requested size: 172.5pt x 58.4516pt.
-[18]
-Overfull \hbox (0.36624pt too wide) in paragraph at lines 283--284
-[]\T1/cmr/m/n/10 Optimisation des performances : Les serveurs de jeu peuvent êt
-re optimisés
- []
-
-
-Overfull \hbox (13.66855pt too wide) in paragraph at lines 296--297
-[]\T1/cmr/m/n/10 Vulnérabilités de sécurité : Les serveurs de jeu peuvent avoir
- des vulnérabilités
  []
 
 [19]
-Overfull \hbox (5.53165pt too wide) in paragraph at lines 302--303
-\T1/cmr/m/n/10 vulnérabilités de configuration qui peuvent être exploitées par 
-les attaquants
- []
+<PhotoMemoire/serveur_jeux.png, id=108, 390.45876pt x 129.48375pt>
+File: PhotoMemoire/serveur_jeux.png Graphic file (type png)
+<use PhotoMemoire/serveur_jeux.png>
+Package pdftex.def Info: PhotoMemoire/serveur_jeux.png  used on input line 293.
 
-
-Overfull \hbox (10.66928pt too wide) in paragraph at lines 302--303
-\T1/cmr/m/n/10 pour accéder à des données sensibles, telles que des information
-s de connexion
- []
-
+(pdftex.def)             Requested size: 276.00105pt x 91.53104pt.
+ [20 <./PhotoMemoire/serveur_jeux.png>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 310.
-) [20]
+(Font)              <14.4> on input line 330.
+ [21]) [22]
 \openout2 = `cybersecuritechapitre.aux'.
 
- (./cybersecuritechapitre.tex
-Chapter 3.
 
-Overfull \hbox (26.2149pt too wide) in paragraph at lines 5--6
-\T1/cmr/m/n/10 technologies de l'information, est l'ensemble des mesures techni
-ques, organisationnelles
- []
-
+(./cybersecuritechapitre.tex
+Chapitre 3.
 
 Overfull \hbox (7.24731pt too wide) in paragraph at lines 7--13
-  [] \T1/cmr/m/n/10 La cybersécurité concerne la sécurité informatique et des r
-éseaux des environne-
+  [] \T1/cmr/m/n/10 La cy-ber-sé-cu-rité concerne la sé-cu-rité in-for-ma-tique
+ et des ré-seaux des environne-
  []
 
-[21
+[23
 
 
 
 
-] [22]
-Overfull \hbox (17.05048pt too wide) in paragraph at lines 43--44
-  [] \T1/cmr/m/n/10 La sécurité informatique est l'ensemble des mesures techniq
-ues, organisationnelles
- []
-
-
-Overfull \hbox (5.94208pt too wide) in paragraph at lines 47--49
-  [] \T1/cmr/m/n/10 La sécurité informatique est devenue un enjeu majeur dans l
-e monde numérique
- []
-
-[23]
-<image_sec.png, id=106, 327.2225pt x 232.87pt>
-File: image_sec.png Graphic file (type png)
-<use image_sec.png>
-Package pdftex.def Info: image_sec.png  used on input line 50.
-(pdftex.def)             Requested size: 172.5pt x 122.75958pt.
-) [24 <./image_sec.png>]
+] [24] [25]
+<PhotoMemoire/image_sec.png, id=129, 327.2225pt x 232.87pt>
+File: PhotoMemoire/image_sec.png Graphic file (type png)
+<use PhotoMemoire/image_sec.png>
+Package pdftex.def Info: PhotoMemoire/image_sec.png  used on input line 50.
+(pdftex.def)             Requested size: 241.49895pt x 171.86272pt.
+) [26 <./PhotoMemoire/image_sec.png>]
 \openout2 = `chapitreConfigurationISS.aux'.
 
- (./chapitreConfigurationISS.tex
-Chapter 4.
-) [25
+
+(./chapitreConfigurationISS.tex
+Chapitre 4.
+) [27
 
 
 
@@ -652,13 +447,13 @@ Chapter 4.
 (./chapitre_2Memoire.aux) (./cybersecuritechapitre.aux)
 (./chapitreConfigurationISS.aux)) ) 
 Here is how much of TeX's memory you used:
- 3237 strings out of 479983
- 56766 string characters out of 5888071
- 366010 words of memory out of 5000000
- 21389 multiletter control sequences out of 15000+600000
+ 4085 strings out of 479954
+ 71749 string characters out of 5886801
+ 380755 words of memory out of 5000000
+ 22226 multiletter control sequences out of 15000+600000
  478658 words of font info for 42 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,6n,67p,819b,246s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,5n,67p,819b,426s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/kenny_t/.texlive2022/texmf-var/fonts
 /pk/ljfour/jknappen/ec/ecbx2074.600pk> </home/kenny_t/.texlive2022/texmf-var/fo
 nts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </home/kenny_t/.texlive2022/texmf-var
@@ -670,10 +465,10 @@ texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> </home/kenny_t/.texlive20
 e2022/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/kenny_t/.tex
 live2022/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (30 pages, 382123 bytes).
+Output written on main.pdf (34 pages, 454766 bytes).
 PDF statistics:
- 510 PDF objects out of 1000 (max. 8388607)
- 107 compressed objects within 2 object streams
+ 537 PDF objects out of 1000 (max. 8388607)
+ 116 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
