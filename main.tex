@@ -4,7 +4,20 @@
 \usepackage[T1]{fontenc}
 \usepackage{hyperref}
 \usepackage[left=3.00cm, right=3.00cm, top=3.00cm, bottom=3.00cm]{geometry}
+\usepackage{titlesec}
+\usepackage{xcolor}
 
+\titleformat{\section}
+{\color{red}\normalfont\Large\bfseries}{\thesection}{1em}{}
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks=true,  
+	linkcolor=blue,  
+	urlcolor=blue, 
+	filecolor=magenta,  
+	citecolor=blue,
+	pdfborder={0 0 0}  
+}
 \begin{document}
 \include{Introduction_Tshibangu_Ntumba}
 \include{chapitre_2Memoire}
