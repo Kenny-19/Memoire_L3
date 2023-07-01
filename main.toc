@@ -1,143 +1,150 @@
-\contentsline {paragraph}{ }{1}{}%
-\contentsline {paragraph}{ }{1}{}%
-\contentsline {chapter}{\numberline {1} Introduction Générale}{1}{}%
-\contentsline {paragraph}{ }{1}{}%
-\contentsline {section}{\numberline {1.1}La cybersécurité }{1}{}%
-\contentsline {paragraph}{ }{2}{}%
-\contentsline {subsection}{\numberline {1.1.1} Pourquoi la cybersécurité est-elle importante ? }{2}{}%
-\contentsline {paragraph}{ }{2}{}%
-\contentsline {section}{\numberline {1.2} Qu'est-ce qu'un serveur ? }{2}{}%
-\contentsline {subsection}{\numberline {1.2.1} Les défis de sécurité associés aux serveurs}{2}{}%
-\contentsline {paragraph}{ }{2}{}%
-\contentsline {paragraph}{ }{2}{}%
-\contentsline {paragraph}{ }{2}{}%
-\contentsline {paragraph}{ }{3}{}%
-\contentsline {paragraph}{}{3}{}%
-\contentsline {subsection}{\numberline {1.2.2}Les meilleures pratiques pour sécuriser les serveurs :}{3}{}%
-\contentsline {paragraph}{ }{3}{}%
-\contentsline {paragraph}{ }{3}{}%
-\contentsline {paragraph}{ }{3}{}%
-\contentsline {paragraph}{ }{3}{}%
-\contentsline {paragraph}{ }{3}{}%
-\contentsline {section}{\numberline {1.3}Contexte de recherche }{3}{}%
-\contentsline {paragraph}{ }{3}{}%
-\contentsline {section}{\numberline {1.4}Solution technique}{4}{}%
-\contentsline {paragraph}{ }{4}{}%
-\contentsline {section}{\numberline {1.5}Problématique }{4}{}%
-\contentsline {paragraph}{ }{4}{}%
-\contentsline {paragraph}{$\bullet $L'injection SQL : }{4}{}%
-\contentsline {paragraph}{$\bullet $ Cross-Site Scripting(XSS) :}{4}{}%
-\contentsline {paragraph}{ }{4}{}%
-\contentsline {paragraph}{ }{5}{}%
-\contentsline {paragraph}{ }{5}{}%
-\contentsline {paragraph}{ }{5}{}%
-\contentsline {paragraph}{ }{5}{}%
-\contentsline {section}{\numberline {1.6}Méthodologie}{5}{}%
-\contentsline {paragraph}{ }{5}{}%
-\contentsline {section}{\numberline {1.7} Techniques }{5}{}%
-\contentsline {paragraph}{ }{5}{}%
-\contentsline {subsection}{\numberline {1.7.1} La Recherche sur Internet :}{5}{}%
-\contentsline {paragraph}{ }{5}{}%
-\contentsline {subsection}{\numberline {1.7.2}La Recherche Documentaire :}{5}{}%
-\contentsline {paragraph}{ }{5}{}%
-\contentsline {subsection}{\numberline {1.7.3} La Recherche Expérimentale :}{5}{}%
-\contentsline {paragraph}{ }{5}{}%
-\contentsline {section}{\numberline {1.8}Limitation}{5}{}%
-\contentsline {paragraph}{ }{5}{}%
-\contentsline {section}{\numberline {1.9}Objectif}{6}{}%
-\contentsline {paragraph}{ }{6}{}%
-\contentsline {paragraph}{ }{6}{}%
+\contentsline {paragraph}{ }{1}{section*.1}%
+\contentsline {paragraph}{ }{1}{section*.2}%
+\contentsline {chapter}{\numberline {1} Introduction Générale}{1}{chapter.1}%
+\contentsline {paragraph}{ }{1}{section*.5}%
+\contentsline {section}{\numberline {1.1}La cybersécurité }{1}{section.1.1}%
+\contentsline {paragraph}{ }{1}{section*.6}%
+\contentsline {subsection}{\numberline {1.1.1} Pourquoi la cybersécurité est-elle importante ? }{1}{subsection.1.1.1}%
+\contentsline {paragraph}{ }{2}{section*.7}%
+\contentsline {section}{\numberline {1.2} Qu'est-ce qu'un serveur ? }{2}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1} Les défis de sécurité associés aux serveurs}{2}{subsection.1.2.1}%
+\contentsline {paragraph}{ }{2}{section*.8}%
+\contentsline {paragraph}{ }{2}{section*.9}%
+\contentsline {paragraph}{ }{2}{section*.10}%
+\contentsline {paragraph}{ }{2}{section*.11}%
+\contentsline {paragraph}{}{2}{section*.12}%
+\contentsline {subsection}{\numberline {1.2.2}Les meilleures pratiques pour sécuriser les serveurs :}{2}{subsection.1.2.2}%
+\contentsline {paragraph}{ }{2}{section*.13}%
+\contentsline {paragraph}{ }{2}{section*.14}%
+\contentsline {paragraph}{ }{3}{section*.15}%
+\contentsline {paragraph}{ }{3}{section*.16}%
+\contentsline {paragraph}{ }{3}{section*.17}%
+\contentsline {section}{\numberline {1.3}Contexte de recherche }{3}{section.1.3}%
+\contentsline {paragraph}{ }{3}{section*.18}%
+\contentsline {section}{\numberline {1.4}Solution technique}{3}{section.1.4}%
+\contentsline {paragraph}{ }{3}{section*.19}%
+\contentsline {section}{\numberline {1.5}Problématique }{3}{section.1.5}%
+\contentsline {paragraph}{ }{3}{section*.20}%
+\contentsline {paragraph}{$\bullet $L'injection SQL : }{3}{section*.21}%
+\contentsline {paragraph}{$\bullet $ Cross-Site Scripting(XSS) :}{3}{section*.22}%
+\contentsline {paragraph}{ }{3}{section*.23}%
+\contentsline {paragraph}{ }{4}{section*.24}%
+\contentsline {paragraph}{ }{4}{section*.25}%
+\contentsline {paragraph}{ }{4}{section*.26}%
+\contentsline {paragraph}{ }{4}{section*.27}%
+\contentsline {section}{\numberline {1.6}Méthodologie}{4}{section.1.6}%
+\contentsline {paragraph}{ }{4}{section*.28}%
+\contentsline {section}{\numberline {1.7} Techniques }{4}{section.1.7}%
+\contentsline {paragraph}{ }{4}{section*.29}%
+\contentsline {subsection}{\numberline {1.7.1} La Recherche sur Internet :}{4}{subsection.1.7.1}%
+\contentsline {paragraph}{ }{4}{section*.30}%
+\contentsline {subsection}{\numberline {1.7.2}La Recherche Documentaire :}{4}{subsection.1.7.2}%
+\contentsline {paragraph}{ }{4}{section*.31}%
+\contentsline {subsection}{\numberline {1.7.3} La Recherche Expérimentale :}{4}{subsection.1.7.3}%
+\contentsline {paragraph}{ }{4}{section*.32}%
+\contentsline {section}{\numberline {1.8}Limitation}{4}{section.1.8}%
+\contentsline {paragraph}{ }{4}{section*.33}%
+\contentsline {section}{\numberline {1.9}Objectif}{4}{section.1.9}%
+\contentsline {paragraph}{ }{4}{section*.34}%
+\contentsline {paragraph}{ }{4}{section*.35}%
 \babel@toc {french}{}\relax 
-\contentsline {chapter}{\numberline {2} Les Serveurs}{7}{}%
-\contentsline {section}{\numberline {2.1}Définitions}{7}{}%
-\contentsline {paragraph}{ \includegraphics [width=0.5\textwidth ]{PhotoMemoire/salle-serveur.jpg}}{7}{}%
-\contentsline {paragraph}{ }{7}{}%
-\contentsline {paragraph}{ }{7}{}%
-\contentsline {paragraph}{ }{8}{}%
-\contentsline {section}{\numberline {2.2}Les Serveurs Web}{9}{}%
-\contentsline {paragraph}{ \includegraphics [width=0.5\textwidth ]{PhotoMemoire/Server_web.png}}{9}{}%
-\contentsline {paragraph}{ }{9}{}%
-\contentsline {subsection}{\numberline {2.2.1}Quelques vulnérabilités Sur Les Serveurs Web }{9}{}%
-\contentsline {paragraph}{ }{9}{}%
-\contentsline {paragraph}{ }{9}{}%
-\contentsline {paragraph}{ }{9}{}%
-\contentsline {paragraph}{ }{9}{}%
-\contentsline {paragraph}{ }{9}{}%
-\contentsline {paragraph}{ }{10}{}%
-\contentsline {paragraph}{ }{10}{}%
-\contentsline {section}{\numberline {2.3}Serveurs de Messageries}{10}{}%
-\contentsline {paragraph}{ \includegraphics [width=0.8\textwidth ]{PhotoMemoire/Serveur_Messagerie.png}}{10}{}%
-\contentsline {paragraph}{ }{10}{}%
-\contentsline {paragraph}{ }{10}{}%
-\contentsline {paragraph}{ }{11}{}%
-\contentsline {subsection}{\numberline {2.3.1}Quelques vulnérabilités Sur Les Serveurs de Messageries }{11}{}%
-\contentsline {paragraph}{ }{11}{}%
-\contentsline {paragraph}{ }{11}{}%
-\contentsline {paragraph}{ }{11}{}%
-\contentsline {paragraph}{ }{11}{}%
-\contentsline {paragraph}{ }{12}{}%
-\contentsline {paragraph}{ }{12}{}%
-\contentsline {section}{\numberline {2.4}Serveur de fichiers}{12}{}%
-\contentsline {paragraph}{ \includegraphics [width=0.8\textwidth ]{PhotoMemoire/serveur_fichier.png}}{12}{}%
-\contentsline {paragraph}{ }{12}{}%
-\contentsline {subsection}{\numberline {2.4.1}Quelques vulnérabilités Sur Les Serveurs de Fichier}{13}{}%
-\contentsline {paragraph}{ }{14}{}%
-\contentsline {section}{\numberline {2.5}Serveur de Base de Données }{14}{}%
-\contentsline {paragraph}{ \includegraphics [width=0.8\textwidth ]{PhotoMemoire/serveur_bdd.png}}{14}{}%
-\contentsline {paragraph}{ }{14}{}%
-\contentsline {paragraph}{ }{14}{}%
-\contentsline {paragraph}{ }{15}{}%
-\contentsline {subsection}{\numberline {2.5.1}Quelques vulnérabilités Sur Les Serveurs de Base De Donnes }{15}{}%
-\contentsline {paragraph}{ }{16}{}%
-\contentsline {section}{\numberline {2.6}Serveur d'Application}{16}{}%
-\contentsline {paragraph}{ \includegraphics [width=0.8\textwidth ]{PhotoMemoire/serveur_application.png}}{16}{}%
-\contentsline {paragraph}{ }{16}{}%
-\contentsline {paragraph}{ }{16}{}%
-\contentsline {paragraph}{ }{17}{}%
-\contentsline {subsection}{\numberline {2.6.1}Quelques vulnérabilités Sur Les Serveurs d'Application }{17}{}%
-\contentsline {paragraph}{ }{18}{}%
-\contentsline {section}{\numberline {2.7}Serveur DNS}{18}{}%
-\contentsline {paragraph}{ \includegraphics [width=0.8\textwidth ]{PhotoMemoire/serveur_dns.jpeg}}{18}{}%
-\contentsline {paragraph}{ }{18}{}%
-\contentsline {paragraph}{ }{18}{}%
-\contentsline {paragraph}{ }{18}{}%
-\contentsline {paragraph}{ }{19}{}%
-\contentsline {subsection}{\numberline {2.7.1}Quelques vulnérabilités Sur Les Serveurs DNS }{19}{}%
-\contentsline {paragraph}{ }{20}{}%
-\contentsline {section}{\numberline {2.8}Serveur de Jeu}{20}{}%
-\contentsline {paragraph}{ \includegraphics [width=0.8\textwidth ]{PhotoMemoire/serveur_jeux.png}}{20}{}%
-\contentsline {paragraph}{ }{20}{}%
-\contentsline {paragraph}{}{21}{}%
-\contentsline {paragraph}{ }{22}{}%
-\contentsline {chapter}{\numberline {3}La CyberSécurité et La Sécurité Informatique}{23}{}%
-\contentsline {section}{\numberline {3.1}La CyberSécurité}{23}{}%
-\contentsline {subsection}{\numberline {3.1.1}Définition}{23}{}%
-\contentsline {paragraph}{ }{23}{}%
-\contentsline {paragraph}{ }{23}{}%
-\contentsline {paragraph}{ }{23}{}%
-\contentsline {paragraph}{ }{24}{}%
-\contentsline {paragraph}{ }{24}{}%
-\contentsline {paragraph}{1. La confidentialité :}{24}{}%
-\contentsline {paragraph}{}{24}{}%
-\contentsline {paragraph}{2. L'intégrité :}{24}{}%
-\contentsline {paragraph}{}{24}{}%
-\contentsline {paragraph}{3. La disponibilité :}{24}{}%
-\contentsline {paragraph}{}{24}{}%
-\contentsline {paragraph}{4. L'authenticité:}{24}{}%
-\contentsline {paragraph}{}{24}{}%
-\contentsline {paragraph}{5. La non-répudiation: }{24}{}%
-\contentsline {paragraph}{}{24}{}%
-\contentsline {paragraph}{6. La résilience :}{24}{}%
-\contentsline {paragraph}{}{24}{}%
-\contentsline {paragraph}{7. La conformité :}{25}{}%
-\contentsline {paragraph}{}{25}{}%
-\contentsline {paragraph}{8. La sensibilisation :}{25}{}%
-\contentsline {paragraph}{}{25}{}%
-\contentsline {section}{\numberline {3.2}La Sécurité Informatique }{25}{}%
-\contentsline {subsection}{\numberline {3.2.1}Définition}{25}{}%
-\contentsline {section}{\numberline {3.3}La Securite Informatique }{25}{}%
-\contentsline {paragraph}{ }{25}{}%
-\contentsline {paragraph}{ }{25}{}%
-\contentsline {paragraph}{ }{25}{}%
-\contentsline {paragraph}{ }{26}{}%
-\contentsline {chapter}{\numberline {4}La Configuration Du Serveur Web (ISS) Et La Sécurisation de ce dernier }{27}{}%
+\contentsline {chapter}{\numberline {2} Les Serveurs}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Définitions}{5}{section.2.1}%
+\contentsline {paragraph}{ }{5}{section*.36}%
+\contentsline {paragraph}{ }{5}{section*.38}%
+\contentsline {paragraph}{ }{6}{section*.40}%
+\contentsline {section}{\numberline {2.2}Les Serveurs Web}{6}{section.2.2}%
+\contentsline {paragraph}{ }{6}{section*.42}%
+\contentsline {subsection}{\numberline {2.2.1}Quelques vulnérabilités Sur Les Serveurs Web }{7}{subsection.2.2.1}%
+\contentsline {paragraph}{ }{7}{section*.43}%
+\contentsline {paragraph}{ }{7}{section*.44}%
+\contentsline {paragraph}{ }{7}{section*.45}%
+\contentsline {paragraph}{ }{7}{section*.46}%
+\contentsline {paragraph}{ }{7}{section*.47}%
+\contentsline {paragraph}{ }{7}{section*.48}%
+\contentsline {paragraph}{ }{7}{section*.49}%
+\contentsline {section}{\numberline {2.3}Serveurs de Messageries}{7}{section.2.3}%
+\contentsline {paragraph}{ }{7}{section*.50}%
+\contentsline {paragraph}{ }{7}{section*.51}%
+\contentsline {paragraph}{ }{8}{section*.52}%
+\contentsline {subsection}{\numberline {2.3.1}Quelques vulnérabilités Sur Les Serveurs de Messageries }{8}{subsection.2.3.1}%
+\contentsline {paragraph}{ }{8}{section*.53}%
+\contentsline {paragraph}{ }{8}{section*.54}%
+\contentsline {paragraph}{ }{9}{section*.55}%
+\contentsline {paragraph}{ }{9}{section*.56}%
+\contentsline {paragraph}{ }{9}{section*.57}%
+\contentsline {paragraph}{ }{9}{section*.58}%
+\contentsline {section}{\numberline {2.4}Serveur de fichiers}{9}{section.2.4}%
+\contentsline {paragraph}{ }{9}{section*.59}%
+\contentsline {subsection}{\numberline {2.4.1}Quelques vulnérabilités Sur Les Serveurs de Fichier}{10}{subsection.2.4.1}%
+\contentsline {paragraph}{ }{10}{section*.60}%
+\contentsline {section}{\numberline {2.5}Serveur de Base de Données }{10}{section.2.5}%
+\contentsline {paragraph}{ }{10}{section*.61}%
+\contentsline {paragraph}{ }{11}{section*.62}%
+\contentsline {paragraph}{ }{11}{section*.63}%
+\contentsline {subsection}{\numberline {2.5.1}Quelques vulnérabilités Sur Les Serveurs de Base De Donnes }{12}{subsection.2.5.1}%
+\contentsline {paragraph}{ }{12}{section*.64}%
+\contentsline {section}{\numberline {2.6}Serveur d'Application}{12}{section.2.6}%
+\contentsline {paragraph}{ }{12}{section*.65}%
+\contentsline {paragraph}{ }{12}{section*.66}%
+\contentsline {paragraph}{ }{13}{section*.67}%
+\contentsline {subsection}{\numberline {2.6.1}Quelques vulnérabilités Sur Les Serveurs d'Application }{13}{subsection.2.6.1}%
+\contentsline {paragraph}{ }{14}{section*.68}%
+\contentsline {section}{\numberline {2.7}Serveur DNS}{14}{section.2.7}%
+\contentsline {paragraph}{ }{14}{section*.69}%
+\contentsline {paragraph}{ }{14}{section*.70}%
+\contentsline {paragraph}{ }{14}{section*.71}%
+\contentsline {paragraph}{ }{15}{section*.72}%
+\contentsline {subsection}{\numberline {2.7.1}Quelques vulnérabilités Sur Les Serveurs DNS }{15}{subsection.2.7.1}%
+\contentsline {paragraph}{ }{15}{section*.73}%
+\contentsline {section}{\numberline {2.8}Serveur de Jeu}{15}{section.2.8}%
+\contentsline {paragraph}{ }{15}{section*.74}%
+\contentsline {paragraph}{}{17}{section*.75}%
+\contentsline {paragraph}{ }{17}{section*.77}%
+\contentsline {chapter}{\numberline {3}La CyberSécurité et La Sécurité Informatique}{18}{chapter.3}%
+\contentsline {section}{\numberline {3.1}La CyberSécurité}{18}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Définition}{18}{subsection.3.1.1}%
+\contentsline {paragraph}{ }{18}{section*.78}%
+\contentsline {paragraph}{ }{18}{section*.79}%
+\contentsline {paragraph}{ }{18}{section*.80}%
+\contentsline {paragraph}{ }{18}{section*.81}%
+\contentsline {paragraph}{ }{19}{section*.82}%
+\contentsline {paragraph}{1. La confidentialité :}{19}{section*.83}%
+\contentsline {paragraph}{}{19}{section*.84}%
+\contentsline {paragraph}{2. L'intégrité :}{19}{section*.85}%
+\contentsline {paragraph}{}{19}{section*.86}%
+\contentsline {paragraph}{3. La disponibilité :}{19}{section*.87}%
+\contentsline {paragraph}{}{19}{section*.88}%
+\contentsline {paragraph}{4. L'authenticité:}{19}{section*.89}%
+\contentsline {paragraph}{}{19}{section*.90}%
+\contentsline {paragraph}{5. La non-répudiation: }{19}{section*.91}%
+\contentsline {paragraph}{}{19}{section*.92}%
+\contentsline {paragraph}{6. La résilience :}{19}{section*.93}%
+\contentsline {paragraph}{}{19}{section*.94}%
+\contentsline {paragraph}{7. La conformité :}{19}{section*.95}%
+\contentsline {paragraph}{}{19}{section*.96}%
+\contentsline {paragraph}{8. La sensibilisation :}{19}{section*.97}%
+\contentsline {paragraph}{}{19}{section*.98}%
+\contentsline {subsection}{\numberline {3.1.2}Pourquoi la cybersécurité est-elle nécessaire ?}{20}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Comment les risques de cybersécurité sont-ils mesurés ?}{20}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}Cybersécurité avec défense en profondeur (DEP)}{21}{subsection.3.1.4}%
+\contentsline {paragraph}{ }{22}{section*.99}%
+\contentsline {subsection}{\numberline {3.1.5}Comment mettre en œuvre la cybersécurité}{23}{subsection.3.1.5}%
+\contentsline {paragraph}{ }{23}{section*.100}%
+\contentsline {section}{\numberline {3.2}But}{23}{section.3.2}%
+\contentsline {section}{\numberline {3.3}objectif}{23}{section.3.3}%
+\contentsline {section}{\numberline {3.4}La Sécurité Informatique }{24}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Définition}{24}{subsection.3.4.1}%
+\contentsline {paragraph}{ }{24}{section*.102}%
+\contentsline {paragraph}{ }{24}{section*.103}%
+\contentsline {paragraph}{ }{25}{section*.104}%
+\contentsline {paragraph}{ }{26}{section*.105}%
+\contentsline {section}{\numberline {3.5}La sécurité informatique, pour quoi faire ?}{26}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Types de sécurité informatique}{27}{section.3.6}%
+\contentsline {paragraph}{ }{27}{section*.109}%
+\contentsline {section}{\numberline {3.7}Sécurité informatique et sécurité des informations, quelle différence ?}{28}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Sécurité informatique et cybersécurité, quelle différence ?}{28}{section.3.8}%
+\contentsline {section}{\numberline {3.9}Risques associés à la sécurité informatique}{28}{section.3.9}%
+\contentsline {section}{\numberline {3.10}Bonnes pratiques en matière de sécurité informatique}{29}{section.3.10}%
+\contentsline {paragraph}{Qu’attendre d’une antivirus de nouvelle génération ?\\}{30}{section*.111}%
+\contentsline {chapter}{\numberline {4}La Configuration Du Serveur Web (ISS) Et La Sécurisation de ce dernier }{32}{chapter.4}%
