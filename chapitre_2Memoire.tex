@@ -5,7 +5,7 @@
 
 	\begin{figure}[h]
 		 \begin{center}
-		\hbox{ \includegraphics[width=0.8\textwidth]{PhotoMemoire/salle-serveur.jpg}}
+		  \includegraphics[width=0.7\textwidth]{PhotoMemoire/salle-serveur.jpg}
 		\caption{Une Salle Serveur}
 	\end{center}
 	\end{figure}
@@ -51,13 +51,125 @@ Les serveurs sont des ordinateurs ou des systèmes informatiques qui fournissent
 \section{Les Serveurs Web}
  
 \begin{figure}[h]
-	\hbox{
-	\includegraphics[width=0.5\textwidth]{PhotoMemoire/Server_web.png}}
+	\begin{center}
+		
+	\includegraphics[width=0.5\textwidth]{PhotoMemoire/Server_web.png}
 \caption{Le Schéma d'un serveur Web}
+	\end{center}
 \end{figure}
 \paragraph{ }
 Les serveurs Web sont des ordinateurs ou des programmes informatiques qui fournissent des pages Web aux clients qui les demandent via un navigateur Web. Ils sont utilisés pour héberger des sites Web et distribuer du contenu en ligne. Les serveurs Web peuvent exécuter différents types de logiciels, tels que Apache, Nginx, Microsoft IIS et bien d'autres. Les pages Web sont généralement créées en utilisant des langages de programmation Web tels que HTML, CSS et JavaScript. Les serveurs Web peuvent également exécuter des applications Web, telles que des forums en ligne, des blogs, des magasins en ligne et bien plus encore.
 
+\subsection{Qu’est ce qu’un Serveur Web et Comment ça Marche ?}
+En termes simples, un serveur web est un ordinateur qui stocke, traite et fournit des fichiers de sites internet aux navigateurs web.
+
+Les serveurs web se composent de matériel et de logiciels qui utilisent le protocole HTTP (Hypertext Transfer Protocol). Il s’agit ici de répondre aux requêtes des utilisateurs web effectuées via le World Wide Web.
+
+Grâce à ce processus, les serveurs web chargent et délivrent la page web demandée au navigateur de l’utilisateur, Google Chrome, par exemple.
+
+Les serveurs web emploient également le protocole SMTP (Simple Mail Transfer Protocol) et le protocole FTP (File Transfer Protocol) pour traiter les fichiers pour les courriers électroniques ou le stockage.\\
+
+Alors, quels sont les composants matériels et logiciels d’un serveur web ? Côté matériel, un serveur web se connecte à Internet. Cela lui permet d’échanger des données ou des fichiers avec d’autres appareils également connectés. Ces données peuvent se présenter sous différentes formes, telles que des fichiers HTML, des images, des fichiers JavaScript ou des feuilles de style CSS. Le matériel du serveur web stocke en même temps le logiciel de serveur web.\\
+
+Le logiciel de serveur web contrôle la manière dont les utilisateurs web accèdent aux fichiers hébergés. Il contient plusieurs composants, hébergeant au moins un serveur HTTP. Un serveur HTTP est un logiciel capable de comprendre les requêtes HTTP et les URLs.\\
+\subsection{Comment fonctionne un serveur web?}
+
+\begin{figure}[h]
+	\begin{center}
+	\includegraphics[width=0.6\textwidth]{PhotoMemoire/serveurweb_fonct.jpg}
+\end{center}
+	\caption{Fonctionnement d'un serveur Web }
+	
+\end{figure}
+
+Les serveurs web suivent un modèle client-serveur. Dans cette structure, un programme, également appelé client, demande une ressource ou un service à un autre programme, le serveur.\\
+
+Pour traiter les requêtes des clients web, les serveurs web suivent quelques étapes nécessaires :
+
+\begin{enumerate}
+\item Lorsqu’un internaute souhaite charger le contenu d’un site web, son navigateur web demande l’accès via Internet. C’est ce qu’on appelle une requête HTTP. Le navigateur web recherche l’adresse IP du site internet demandé en traduisant l’URL des pages web via le Système de Noms de Domaines (DNS) ou en cherchant dans son cache. Ce processus localise le serveur web sur lequel les fichiers du site internet sont hébergés.\\
+
+\item  Le serveur web reçoit la requête HTTP et la traite via son serveur HTTP. Une fois que son serveur HTTP accepte la requête, il effectue une recherche dans les fichiers du serveur afin d’obtenir les données requises du site internet.\\
+
+\item  Après cela, le serveur web renvoie les fichiers du site au navigateur web qui a envoyé la demande. Ensuite, l’internaute voit le contenu des pages web.\\
+\end{enumerate}
+
+
+Cependant, si le serveur HTTP ne parvient pas à trouver ou à traiter les fichiers demandés sur le serveur, il répond au navigateur web par un message d’erreur. L’une des plus courantes est une erreur 404. Toutefois, une erreur 403 peut également apparaître en cas de problèmes d’autorisation sur le serveur.\\
+\begin{figure}[h]
+	\begin{center}
+		\includegraphics[width=0.6\textwidth]{PhotoMemoire/erruer404.png}
+	\end{center}
+	\caption{ Erreur 404}
+	
+\end{figure}
+
+Si, par contre, un serveur web ne reçoit pas de réponse en temps opportun d’un autre serveur proxy agissant comme une passerelle, une erreur 504 se produit dans ce cas.\\
+\subsection{Serveur web statique ou serveur web dynamique.}
+
+Les serveurs web peuvent transmettre du contenu statique ou dynamique. Un serveur web statique se compose d’un ordinateur et d’un logiciel HTTP. Les serveurs web statiques renvoient les fichiers d’un site web à un navigateur web sans aucune modification.\\
+
+Un serveur web dynamique comprend un serveur web statique et des logiciels supplémentaires. Ces logiciels se composent le plus souvent d’un serveur d’application et de bases de données.\\
+
+Les serveurs web dynamiques mettent essentiellement à jour les fichiers hébergés avant de les diffuser via un serveur HTTP. Cela lui permet de générer et d’envoyer du contenu dynamique à un navigateur web.\\
+
+\subsection{Fonctionnalités du serveur web}
+Outre la prise en charge des protocoles HTTP pour traiter les demandes et les réponses entrantes, la plupart des serveurs web offrent les fonctionnalités standards suivantes :
+\begin{enumerate}
+	\item \textbf{ Journalisation des fichiers.\\} Les fichiers journaux documentent tous les événements ou activités que les serveurs web effectuent, tels que les requêtes, la sécurité et les erreurs. Chaque fois qu’un serveur web reçoit une nouvelle requête, une ligne de texte est ajoutée au journal.
+	 
+	 \item \textbf{ Authentification.\\} De nombreux serveurs offrent cette fonctionnalité avant d’autoriser un accès partiel ou complet aux ressources d’un site web. Les fonctions d’authentification impliquent souvent des demandes d’autorisation. Cela se produit lorsqu’un nom d’utilisateur et un mot de passe sont requis.
+	 
+	 \item \textbf{Limitation de la bande passante.\\} La bande passante d’un serveur web est la quantité de données qu’il peut transférer ou traiter à un moment donné. La limitation de la bande passante contrôle la vitesse des réponses pour s’assurer qu’un réseau n’est pas saturé et peut livrer les fichiers sans problèmes.
+	 
+	 \item \textbf{ Espace de stockage.\\} Il fait référence à la quantité d’espace disque disponible pour stocker des fichiers. Il détermine par conséquent si un serveur web peut héberger un site internet avec des caractéristiques spécifiques.
+	 
+	 Un serveur web comprend d’autres éléments essentiels, tels que :
+	 \begin{enumerate}
+	 	
+	 
+	 \item \textbf{Langage de programmation.\\} Le langage de programmation d’un serveur web est le type de code utilisé pour développer des programmes exécutés par un serveur. Il est également connu sous le nom de langages de script côté serveur. PHP et Python sont des exemples de langages de programmation très populaires.
+	 
+	 \item \textbf{Disponibilité.\\} La disponibilité du serveur suit la durée pendant laquelle un serveur web est fonctionnel et peut traiter les demandes ou fournir des fichiers. 
+	 
+	 \subitem La disponibilité d’un serveur affecte aussi le moment où un site web hébergé est opérationnel. C’est ce que l’on appelle la disponibilité du site web. La norme de l’industrie est une garantie de 99,9 Pour-cent.
+	\end{enumerate}
+\end{enumerate}
+\subsection{A quoi sert un serveur web ?}
+
+Les serveurs web ont trois fonctions principales, lesquelles sont :
+\begin{enumerate}
+	\item  Héberger plusieurs sites web ou applications web.,
+	 \item  Traiter les demandes de Protocole de transfert de fichiers (FTP),
+	 \item  Envoyer et recevoir des e-mails.
+\end{enumerate}
+Les serveurs web hébergent des sites internet afin qu’ils soient accessibles sur Internet. C’est pourquoi les caractéristiques et les fonctions d’un serveur web se concentrent sur la création et la maintenance d’un environnement d’hébergement.\\
+
+Si vous souhaitez créer et publier un site web, vous devez avoir accès à un serveur web. Le moyen le plus pratique de le faire est de passer par les hébergeurs de sites.\\
+
+L’hébergement web est un service qui fournit à votre site web un espace serveur pour stocker ses fichiers, scripts et bases de données. Consultez notre guide sur l’hébergement web pour en savoir plus.\\
+
+En plus de tout cela, le rôle d’un fournisseur d’hébergement web est également de s’assurer que les serveurs fonctionnent de manière transparente. Cela implique d’effectuer des sauvegardes, la mise en cache, la surveillance de la sécurité et la maintenance générale. D’ailleurs, c’est pourquoi il est crucial de choisir un hébergeur fiable.\\
+
+Certains des principaux avantages d’avoir un hébergeur web pour surveiller et maintenir le serveur web sur lequel votre site internet est hébergé sont les suivants :
+\begin{enumerate}
+	\item[$\bullet$] \textbf{Disponibilité et performances optimales.\\} Un hébergeur web s’occupe de la maintenance du matériel et des mises à jour logicielles, ce qui contribue à améliorer les performances et la disponibilité du site web.\\
+	
+ 	\item [$\bullet$]\textbf{Serveurs sécurisés.\\} Les hébergeurs web mettent en œuvre des protocoles de sécurité efficaces pour réduire les vulnérabilités et protéger les sites hébergés contre les logiciels malveillants ou les cyberattaques.\\
+	\item[$\bullet$] \textbf{Diverses options de plans d’hébergement.\\} Les propriétaires de sites peuvent choisir un plan d’hébergement web avec différentes caractéristiques et fonctions de leurs besoins.\\
+	\item[$\bullet$] \textbf{Rentabilité.\\} Les propriétaires de sites n’ont pas à maintenir un serveur dédié et peuvent à la place opter pour un plan d’hébergement qui fournit la quantité nécessaire de ressources du serveur.\\
+	\item [$\bullet$]\textbf{Flexibilité.} Les hébergeurs web proposent des plans évolutifs afin que les propriétaires de sites web puissent obtenir des ressources d’hébergement supplémentaires en fonction de leurs besoins. Il peut s’agir du stockage ou de la bande passante.\\
+\end{enumerate}
+\subsection{Serveurs web sur le marché}
+Certains des exemples les plus populaires de serveurs web englobent :
+\begin{enumerate}
+	 \item [$\bullet$]\textbf{Serveur HTTP Apache.\\} Un serveur logiciel gratuit et open source maintenu par Apache Software Foundation et  utilisé pour de nombreux systèmes d’exploitation, y compris Windows, Linux et Mac OS X. Apache est le plus ancien logiciel de serveur web et l’un des incontournables pour les propriétaires de sites web, les développeurs et les hébergeurs. Il dispose d’une part de marché de plus de 31 Pourcentage.
+	 \item [$\bullet$]\textbf{NGINX.\\} Un célèbre logiciel de serveur web open source qui ne fonctionnait initialement que pour le service web HTTP. Il est désormais également utilisé comme proxy inverse, équilibreur de charge HTTP et proxy de messagerie. NGINX est apprécié pour sa rapidité et sa capacité à gérer plusieurs connexions. C’est pourquoi de nombreux sites à fort trafic font recours à ses services.
+	 \item [$\bullet$]\textbf{Microsoft Internet Information Services (IIS).\\} IIS est un logiciel de serveur web à code source fermé et développé par Microsoft. Il est largement utilisé dans les systèmes d’exploitation Windows.\\
+	 \item [$\bullet$]\textbf{Lighttpd.\\} Un logiciel de serveur web gratuit et open source connu pour sa vitesse tout en nécessitant moins de puissance CPU. Lighttpd est également populaire pour avoir une petite empreinte mémoire.
+\end{enumerate}
+\paragraph{Conclusion}
+Un serveur web est un ordinateur qui stocke, traite et fournit des fichiers de sites. Il se compose d’un côté matériel et d’un côté logiciel (serveur http), chacun jouant un rôle distinct dans le traitement des fichiers.
 \subsection{Quelques vulnérabilités Sur Les Serveurs Web }
 \paragraph{ }
 Il y a plusieurs vulnérabilités qui peuvent affecter un serveur web, en voici quelques exemples :
@@ -77,8 +189,12 @@ Il est important de mettre en place des mesures de sécurité adéquates pour pr
 
 \section{Serveurs de Messageries}
 	\begin{figure}[h]
-		\hbox{\includegraphics[width=0.8\textwidth]{PhotoMemoire/Serveur_Messagerie.png}}
+		\begin{center}
+			
+	
+		\includegraphics[width=0.8\textwidth]{PhotoMemoire/Serveur_Messagerie.png}
 \caption{Schéma d'un Serveur de Messagerie}
+	\end{center}
 \end{figure}
 \paragraph{ }
 
@@ -114,9 +230,11 @@ Il est important de mettre en place des mesures de sécurité adéquates pour pr
  Les utilisateurs doivent également être éduqués sur les meilleures pratiques de sécurité, telles que la création de mots de passe forts et l'utilisation de l'authentification à deux facteurs pour protéger leurs comptes de messagerie.\\
 \section{Serveur de fichiers}
 	\begin{figure}[h]
-		\hbox{
-	\includegraphics[width=0.8\textwidth]{PhotoMemoire/serveur_fichier.png}}
+		\begin{center}
+		
+	\includegraphics[width=0.8\textwidth]{PhotoMemoire/serveur_fichier.png}
 \caption{Schéma De Serveur De Fichier }
+\end{center}
 \end{figure}
 \paragraph{ }
 Un serveur de fichiers est un type de serveur qui stocke des fichiers et des dossiers, et permet à des utilisateurs de les accéder et de les partager via un réseau. Les serveurs de fichiers peuvent être configurés pour fournir différentes fonctionnalités, telles que :
@@ -159,10 +277,14 @@ Il est important de mettre en place des mesures de sécurité adéquates pour pr
  Les utilisateurs doivent également être éduqués sur les meilleures pratiques de sécurité, telles que la création de mots de passe forts et l'utilisation de l'authentification à deux facteurs pour protéger leur accès aux fichiers stockés sur le serveur de fichiers.
 \section{Serveur de Base de Données }
 	\begin{figure}[h]
+		\begin{center}
+			
 		
-		\hbox{
-	\includegraphics[width=0.8\textwidth]{PhotoMemoire/serveur_bdd.png}}
+		
+		
+	\includegraphics[width=0.8\textwidth]{PhotoMemoire/serveur_bdd.png}
 \caption{Schema De Serveur De Base De Données}
+\end{center}
 \end{figure}
 \paragraph{ }
 Un serveur de base de données est un type de serveur qui stocke des données et fournit des services pour gérer ces données. Il permet aux utilisateurs de stocker, d'organiser, d'accéder et de gérer des données de manière efficace et sécurisée.
@@ -211,9 +333,13 @@ Il existe plusieurs vulnérabilités potentielles qui peuvent affecter les serve
 Il est important de mettre en place des mesures de sécurité adéquates pour protéger les serveurs de bases de données contre ces vulnérabilités potentielles, telles que la mise à jour régulière de la sécurité du système et l'utilisation de logiciels de sécurité pour détecter et prévenir les attaques potentielles. Les développeurs de bases de données doivent également être conscients des meilleures pratiques de sécurité, telles que la validation des entrées utilisateur et l'utilisation de l'authentification à deux facteurs pour protéger l'accès aux données stockées sur le serveur de bases de données.
 \section{Serveur d'Application}
 	\begin{figure}[h]
-		\hbox{
-	\includegraphics[width=0.8\textwidth]{PhotoMemoire/serveur_application.png}}
+	\begin{center}
+		
+	
+		
+	\includegraphics[width=0.8\textwidth]{PhotoMemoire/serveur_application.png}
 \caption{Schéma D'un serveur D'application}
+\end{center}
 \end{figure}
 \paragraph{ }
 
@@ -258,8 +384,12 @@ Il est important de mettre en place des mesures de sécurité adéquates pour pr
  
  \section{Serveur DNS}
 	\begin{figure}[h]
-	\hbox{\includegraphics[width=0.8\textwidth]{PhotoMemoire/serveur_dns.jpeg}}
+		\begin{center}
+			
+		
+	\includegraphics[width=0.8\textwidth]{PhotoMemoire/serveur_dns.jpeg}
 	\caption{Schéma d'un Serveur DNS}
+\end{center}
 \end{figure}
 \paragraph{ }
 Un serveur DNS (Domain Name System) est un type de serveur qui permet de traduire les noms de domaine en adresses IP. Les noms de domaine sont des identificateurs textuels, tels que "google.com" ou "facebook.com", qui sont plus faciles à mémoriser que les adresses IP numériques qui identifient les ordinateurs et les serveurs sur Internet.
@@ -307,9 +437,14 @@ Il est important de mettre en place des mesures de sécurité adéquates pour pr
  
 \section{Serveur de Jeu}
 	\begin{figure}[h]
-\hbox{\includegraphics[width=0.8\textwidth]{PhotoMemoire/serveur_jeux.png}}
+		\begin{center}
+		 
+	
+\includegraphics[width=0.8\textwidth]{PhotoMemoire/serveur_jeux.png}
 \caption{Un Schema de Serveur de Jeu}
+	\end{center}
 	\end{figure}
+		
 \paragraph{ }
 Un serveur de jeu est un type de serveur qui permet de fournir des services de jeu en ligne à des joueurs du monde entier. Les serveurs de jeu sont utilisés pour héberger des jeux multijoueurs en ligne, tels que les jeux de tir à la première personne, les jeux de stratégie en temps réel, les jeux de rôle en ligne massivement multijoueurs (MMORPG), les jeux de sport en ligne, etc.
 

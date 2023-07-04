@@ -1,11 +1,44 @@
-\documentclass{report}
+\documentclass[
+oneside,numbers=noenddot,headinclude,
+footinclude=true,cleardoublepage=empty,
+dottedtoc,paper=a4,fontsize=12pt,
+]{scrreprt}
 \usepackage{graphicx}
 \usepackage[french]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[french]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{classicthesis}
+\usepackage{csquotes}
+\usepackage{acronym}
+\usepackage{booktabs}
+\usepackage{subfiles}
+\usepackage[a4paper,left=3cm, right=3cm, top=3.00cm, bottom=3.00cm]{geometry}
+\usepackage{scrlayer-scrpage}
+\KOMAoptions{singlespacing=true}
+% \usepackage[oldstylenums]{kpfonts}
+% \usepackage[osf]{libertine}
+%\usepackage[light,condensed,math]{iwona}
+\renewcommand{\sfdefault}{iwona}
+% \usepackage{lmodern}
+% \usepackage{cfr-lm}
+% \usepackage[urw-garamond]{mathdesign}
+% \usepackage[default,osfigures]{opensans}
+%\usepackage[sfdefault]{FiraSans}
+
+
+\graphicspath{{gfx/}}
+\linespread{1.3}
+\titleformat{\chapter}[display]
+{\relax}{\vspace*{-3\baselineskip}\makebox[\linewidth][r]{\color{halfgray}\chapterNumber\thechapter}}{0pt}%
+{\raggedright\spacedallcaps}[\normalsize\vspace*{.8\baselineskip}\titlerule]
+
 \usepackage[T1]{fontenc}
 \usepackage{hyperref}
-\usepackage[left=3.00cm, right=3.00cm, top=3.00cm, bottom=3.00cm]{geometry}
 \usepackage{titlesec}
+\usepackage{longtable}
 \usepackage{xcolor}
+%\usepackage{biblatex}
  
 \usepackage{hyperref}
 \hypersetup{
@@ -14,12 +47,56 @@
 	urlcolor=blue, 
 	filecolor=magenta,  
 	citecolor=blue,
-	pdfborder={0 0 0}  
+	pdfborder={56 0 0}  
 }
 \begin{document}
 \include{Introduction_Tshibangu_Ntumba}
 \include{chapitre_2Memoire}
 \include{cybersecuritechapitre}
 \include{chapitreConfigurationISS}
+
+\newpage
+
+\begin{thebibliography}{9}
+	\section*{Ouvrages}
+	\bibitem{sol19} Solange Ghernaouti,\emph{ Cybersécurité Analyser les risques	Mettre en œuvre	les solutions}.
+	Dunod,
+	6 ème Ed,
+	2019.
+	 
+	\bibitem{muk} Patrick Mukala, \emph{THEORIE DE L’INFORMATION ET CRYPTOGRAPHIE : Principes 
+	Fondamentaux.}\\
+	 
+     \bibitem{sol19} Solange Ghernaouti,\emph{ Cybersécurité sécurité informatique  et réseaux }.
+     Dunod,
+     5 ème Ed,
+     2011.
+      
+     \bibitem{Lis19} Lisa Bock, \emph{Learn Wireshark.}
+      Packt Publishing
+      1 ère Ed,
+      2019.
+	
+	\section*{  Webography \hrule}
+	
+	\bibitem{1} \href{https://developer.mozilla.org/fr/docs/Learn/Common_questions/Web_mechanics/What_is_a_web_server}{\emph{MDN Web Docs.}} \\
+	\bibitem{2}\href{https://www.sartagas.fr/outils-de-la-ssi/securite-de-l-exploitation/}{\emph{Sécurité de l’exploitation – Sartagas votre guide d'outils informatiques pour votre CyberSécurité.}}
+	\bibitem{3}\href{https://www.hostinger.fr/tutoriels/serveur-web}{\emph{Hostinger Tutoriels.}}
+	\bibitem{4}\href{https://fr.linkedin.com/pulse/7-conseils-pour-am%C3%A9liorer-la-s%C3%A9curit%C3%A9-physique-dans-jo%C3%ABl#:~:text=La%20s%C3%A9curit%C3%A9%20physique%20est%20souvent,dommages%20graves%20%C3%A0%20une%20organisation.}{\emph{7 CONSEILS POUR AMÉLIORER LA SÉCURITÉ PHYSIQUE DANS VOTRE ENTREPRISE.}}
+	\bibitem{5}\href{https://www.departement-ti.com/les-aspects-de-securite-dun-centre-de-donnees/}{\emph{Departement-IT}}
+	\bibitem{6}\href{https://learn.microsoft.com/fr-fr/microsoft-desktop-optimization-pack/appv-v4/how-to-configure-the-server-for-iis}{Les Serveurs IIS.}
+	\bibitem{7}\href{https://www.1min30.com/dictionnaire-du-web/serveur-web}{\emph{Dico Du Serveur WEB}}
+	\bibitem{8}\href{https://www.crowdstrike.fr/cybersecurity-101/it-security/}{\emph{Definition De la CyberSécurité}}
+	\newpage
+	\section*{Cours Impliqués \hrule}
+ 
+		\bibitem {} Sécurité  informatique.\\
+		\bibitem {} Administration Réseaux.\\
+		\bibitem {} Introduction Réseau.\\
+		\bibitem {} Laboratoire Réseau .\\
+		\bibitem {} Architecture des ordinateurs .\\	 
+	
+	
+\end{thebibliography}
 
 \end{document}
