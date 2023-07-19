@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.7.1)  14 JUL 2023 14:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.7.1)  18 JUL 2023 14:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./main.tex
-(main.tex
+**./Memoire_Tshibangu_Ntumba_2023_L3_INFOReseau.tex
+(Memoire_Tshibangu_Ntumba_2023_L3_INFOReseau.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-03-30>
 (C:\Users\Kenny . A\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrrepr
@@ -813,10 +813,11 @@ Package csquotes Info: Redefining alias 'default' -> 'french'.
 File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count307
 \l__pdf_internal_box=\box60
-) (main.aux (Introduction_Tshibangu_Ntumba.aux)
-(chapitre_2Memoire.aux) (cybersecuritechapitre.aux)
-(chapitreConfigurationISS.aux) (Conclusion.aux) (bibliographie.aux))
-\openout1 = `main.aux'.
+) (Memoire_Tshibangu_Ntumba_2023_L3_INFOReseau.aux
+(Introduction_Tshibangu_Ntumba.aux) (chapitre_2Memoire.aux)
+(cybersecuritechapitre.aux) (chapitreConfigurationISS.aux) (Conclusion.aux)
+(bibliographie.aux))
+\openout1 = `Memoire_Tshibangu_Ntumba_2023_L3_INFOReseau.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
 LaTeX Font Info:    ... okay on input line 38.
@@ -908,9 +909,10 @@ Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring ON on input line 38.
- (main.out) (main.out)
+ (Memoire_Tshibangu_Ntumba_2023_L3_INFOReseau.out)
+(Memoire_Tshibangu_Ntumba_2023_L3_INFOReseau.out)
 \@outlinefile=\write3
-\openout3 = `main.out'.
+\openout3 = `Memoire_Tshibangu_Ntumba_2023_L3_INFOReseau.out'.
 
 Class scrreprt Info: loading recommended package `bookmark'.
 (scrreprt)           Using `bookmark' together with `hyperref' is recommended,
@@ -1033,7 +1035,7 @@ Package scrlayer-scrpage Warning: \headheight to low.
 (scrlayer-scrpage)                e.g., setting geometry's option
 (scrlayer-scrpage)                `head=17.68002pt'.
 (scrlayer-scrpage)                I'll also decrease \topmargin on input line 1
-35.
+38.
 
 
 Overfull \vbox (0.68002pt too high) has occurred while \output is active []
@@ -1045,8 +1047,8 @@ Overfull \vbox (0.68002pt too high) has occurred while \output is active []
 
 ]
 Package tocbasic Info: character protrusion at toc deactivated on input line 17
-4.
- (main.toc
+7.
+ (Memoire_Tshibangu_Ntumba_2023_L3_INFOReseau.toc
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/pplj/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -1054,32 +1056,34 @@ Package microtype Info: Character `029' is missing
 
 ])
 \tf@toc=\write4
-\openout4 = `main.toc'.
+\openout4 = `Memoire_Tshibangu_Ntumba_2023_L3_INFOReseau.toc'.
 
  [9] [10
 
 ]
 Package tocbasic Info: character protrusion at lof deactivated on input line 21
-5.
- (main.lof)
+8.
+
+(Memoire_Tshibangu_Ntumba_2023_L3_INFOReseau.lof)
 \tf@lof=\write5
-\openout5 = `main.lof'.
+\openout5 = `Memoire_Tshibangu_Ntumba_2023_L3_INFOReseau.lof'.
 
  [11
 
 ]
-Package tocbasic Info: character protrusion at lot deactivated on input line 21
-7.
- (main.lot)
+Package tocbasic Info: character protrusion at lot deactivated on input line 22
+0.
+
+(Memoire_Tshibangu_Ntumba_2023_L3_INFOReseau.lot)
 \tf@lot=\write6
-\openout6 = `main.lot'.
+\openout6 = `Memoire_Tshibangu_Ntumba_2023_L3_INFOReseau.lot'.
 
  [12
 
 ]
 Chapitre 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--252
+Underfull \hbox (badness 10000) in paragraph at lines 252--255
 
  []
 
@@ -1088,16 +1092,16 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.254 ...fis de sécurité associés aux serveurs}
+l.257 ...fis de sécurité associés aux serveurs}
                                                    [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 255--256
+Underfull \hbox (badness 10000) in paragraph at lines 258--259
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 264--265
+Underfull \hbox (badness 10000) in paragraph at lines 267--268
 
  []
 
@@ -1109,15 +1113,15 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.269 \item[$\bullet$]
+l.272 \item[$\bullet$]
                       Utilisez un pare-feu :  Un pare-feu peut aider à pro...
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 282--284
+Underfull \hbox (badness 10000) in paragraph at lines 285--287
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--289
+Underfull \hbox (badness 10000) in paragraph at lines 291--292
 
  []
 
@@ -1126,13 +1130,13 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.292    \begin
+l.295    \begin
                {itemize} [3]
 pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.316 
+l.319 
        [4])
 pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
 been already used, duplicate ignored
@@ -1830,7 +1834,7 @@ File: PhotoMemoire/interfacepfsense.png Graphic file (type png)
 <use PhotoMemoire/interfacepfsense.png>
 Package pdftex.def Info: PhotoMemoire/interfacepfsense.png  used on input line 
 48.
-(pdftex.def)             Requested size: 241.84843pt x 135.97348pt.
+(pdftex.def)             Requested size: 386.95897pt x 217.55933pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1841,7 +1845,7 @@ png)
 <use photo_memoireConfig/configurationInterfaceServeur.png>
 Package pdftex.def Info: photo_memoireConfig/configurationInterfaceServeur.png 
  used on input line 59.
-(pdftex.def)             Requested size: 241.84843pt x 135.97348pt.
+(pdftex.def)             Requested size: 386.95897pt x 217.55933pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1850,7 +1854,7 @@ File: photo_memoireConfig/Global_settings.png Graphic file (type png)
 <use photo_memoireConfig/Global_settings.png>
 Package pdftex.def Info: photo_memoireConfig/Global_settings.png  used on input
  line 66.
-(pdftex.def)             Requested size: 241.84843pt x 135.97348pt.
+(pdftex.def)             Requested size: 386.95897pt x 217.55933pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1859,7 +1863,7 @@ File: photo_memoireConfig/Update_des Cles MD5.png Graphic file (type png)
 <use photo_memoireConfig/Update_des Cles MD5.png>
 Package pdftex.def Info: photo_memoireConfig/Update_des Cles MD5.png  used on i
 nput line 73.
-(pdftex.def)             Requested size: 241.84843pt x 135.97348pt.
+(pdftex.def)             Requested size: 386.95897pt x 217.55933pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1868,7 +1872,7 @@ File: photo_memoireConfig/Alert_ip.png Graphic file (type png)
 <use photo_memoireConfig/Alert_ip.png>
 Package pdftex.def Info: photo_memoireConfig/Alert_ip.png  used on input line 8
 6.
-(pdftex.def)             Requested size: 241.84843pt x 126.68024pt.
+(pdftex.def)             Requested size: 386.95897pt x 202.69331pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1877,7 +1881,7 @@ File: photo_memoireConfig/Blocked_IP.png Graphic file (type png)
 <use photo_memoireConfig/Blocked_IP.png>
 Package pdftex.def Info: photo_memoireConfig/Blocked_IP.png  used on input line
  95.
-(pdftex.def)             Requested size: 241.84843pt x 126.50305pt.
+(pdftex.def)             Requested size: 386.95897pt x 202.40982pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1885,7 +1889,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: PhotoMemoire/Virtualbox.png Graphic file (type png)
 <use PhotoMemoire/Virtualbox.png>
 Package pdftex.def Info: PhotoMemoire/Virtualbox.png  used on input line 104.
-(pdftex.def)             Requested size: 241.84843pt x 58.99931pt.
+(pdftex.def)             Requested size: 386.95897pt x 94.40334pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 107--108
 
@@ -1914,7 +1918,7 @@ File: PhotoMemoire/machineutilisee.png Graphic file (type png)
 <use PhotoMemoire/machineutilisee.png>
 Package pdftex.def Info: PhotoMemoire/machineutilisee.png  used on input line 1
 19.
-(pdftex.def)             Requested size: 241.84843pt x 135.97348pt.
+(pdftex.def)             Requested size: 386.95897pt x 217.55933pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1923,16 +1927,16 @@ File: PhotoMemoire/serveur _Web.png Graphic file (type png)
 <use PhotoMemoire/serveur _Web.png>
 Package pdftex.def Info: PhotoMemoire/serveur _Web.png  used on input line 126.
 
-(pdftex.def)             Requested size: 241.84843pt x 135.97348pt.
+(pdftex.def)             Requested size: 386.95897pt x 217.55933pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 ) [47] [48 <./PhotoMemoire/pfsense.png>] [49 <./PhotoMemoire/interfacepfsense.p
-ng> <./photo_memoireConfig/configurationInterfaceServeur.png> <./photo_memoireC
-onfig/Global_settings.png>] [50 <./photo_memoireConfig/Update_des Cles MD5.png>
- <./photo_memoireConfig/Alert_ip.png> <./photo_memoireConfig/Blocked_IP.png>]
-[51 <./PhotoMemoire/Virtualbox.png>] [52 <./PhotoMemoire/machineutilisee.png> <
-./PhotoMemoire/serveur _Web.png>]
+ng> <./photo_memoireConfig/configurationInterfaceServeur.png>] [50 <./photo_mem
+oireConfig/Global_settings.png> <./photo_memoireConfig/Update_des Cles MD5.png>
+] [51 <./photo_memoireConfig/Alert_ip.png> <./photo_memoireConfig/Blocked_IP.pn
+g>] [52 <./PhotoMemoire/Virtualbox.png>] [53 <./PhotoMemoire/machineutilisee.pn
+g> <./PhotoMemoire/serveur _Web.png>]
 \openout2 = `Conclusion.aux'.
 
  (Conclusion.tex
@@ -1942,7 +1946,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--44
 
  []
 
-[53
+[54
 
 
 
@@ -1950,68 +1954,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--44
 ]
 \openout2 = `bibliographie.aux'.
 
- (bibliographie.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--10
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
-
- []
-
-[54
+ (bibliographie.tex [55
 
 
 
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 38--39
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--40
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
-
- []
-
-) [55] (main.aux (Introduction_Tshibangu_Ntumba.aux) (chapitre_2Memoire.aux)
+]) [56]
+(Memoire_Tshibangu_Ntumba_2023_L3_INFOReseau.aux
+(Introduction_Tshibangu_Ntumba.aux) (chapitre_2Memoire.aux)
 (cybersecuritechapitre.aux) (chapitreConfigurationISS.aux) (Conclusion.aux)
 (bibliographie.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `main.out' has not changed.
+Package rerunfilecheck Info: File `Memoire_Tshibangu_Ntumba_2023_L3_INFOReseau.
+out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 23441 strings out of 476331
- 443881 string characters out of 5785842
+ 23443 strings out of 476331
+ 445072 string characters out of 5785842
  1868660 words of memory out of 5000000
- 42725 multiletter control sequences out of 15000+600000
+ 42726 multiletter control sequences out of 15000+600000
  618294 words of font info for 494 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,24n,126p,10901b,898s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,24n,126p,10940b,898s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Kenny . A/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmsy10.pfb><C:/Users/Kenny . A/AppData/Local/Programs/MiKTeX/fonts/type1/pu
 blic/fpl/fplbj8a.pfb><C:/Users/Kenny . A/AppData/Local/Programs/MiKTeX/fonts/ty
@@ -2020,9 +1987,10 @@ nts/type1/public/fpl/fplrij8a.pfb><C:/Users/Kenny . A/AppData/Local/Programs/Mi
 KTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/Kenny . A/AppData/Local/Prog
 rams/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/Kenny . A/AppData/Loc
 al/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (67 pages, 2956352 bytes).
+Output written on Memoire_Tshibangu_Ntumba_2023_L3_INFOReseau.pdf (68 pages, 29
+57345 bytes).
 PDF statistics:
- 925 PDF objects out of 1000 (max. 8388607)
- 222 named destinations out of 1000 (max. 500000)
+ 930 PDF objects out of 1000 (max. 8388607)
+ 223 named destinations out of 1000 (max. 500000)
  105607 words of extra memory for PDF output out of 106986 (max. 10000000)
 
